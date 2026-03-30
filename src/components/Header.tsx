@@ -15,9 +15,9 @@ export default function Header() {
 
   return (
     <header className="fixed top-0 left-0 right-0 z-50 border-b border-white/5 bg-[#0C1828]/90 backdrop-blur-md">
-      <div className="max-w-6xl mx-auto px-6 h-16 flex items-center justify-between">
+      <div className="max-w-6xl mx-auto px-6 h-20 flex items-center justify-between">
         <Link href="/" className="flex items-center" aria-label="SharpMargin Home">
-          <Logo className="h-8 w-auto" />
+          <Logo className="h-14 w-auto" />
         </Link>
 
         {/* Desktop nav */}

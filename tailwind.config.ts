@@ -23,6 +23,15 @@ const config: Config = {
         tightest: "-0.04em",
         tighter: "-0.02em",
       },
+      animation: {
+        ticker: "ticker 40s linear infinite",
+      },
+      keyframes: {
+        ticker: {
+          "0%": { transform: "translateX(0)" },
+          "100%": { transform: "translateX(-50%)" },
+        },
+      },
     },
   },
   plugins: [],

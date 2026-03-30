@@ -50,10 +50,21 @@ export default function ContactPage() {
                 <div>
                   <div className="text-xs text-[#C9A84C] font-bold tracking-widest uppercase mb-1.5">Email</div>
                   <a
-                    href="mailto:josh@sharpmargin.com"
+                    href="mailto:info@sharpmargin.com"
                     className="text-white/70 hover:text-white transition-colors text-sm"
                   >
-                    josh@sharpmargin.com
+                    info@sharpmargin.com
+                  </a>
+                </div>
+                <div>
+                  <div className="text-xs text-[#C9A84C] font-bold tracking-widest uppercase mb-1.5">Schedule a Call</div>
+                  <a
+                    href="https://calendly.com/sharpmargin-info/one-on-one-discovery-call"
+                    target="_blank"
+                    rel="noopener noreferrer"
+                    className="inline-block mt-1 px-5 py-2.5 bg-[#C9A84C] text-[#0C1828] font-bold text-xs tracking-wider uppercase rounded hover:bg-[#d4b460] transition-colors"
+                  >
+                    Book Free 15-Min Call →
                   </a>
                 </div>
                 <div>

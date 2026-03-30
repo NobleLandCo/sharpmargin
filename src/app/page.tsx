@@ -40,10 +40,22 @@ const valueProps = [
 const stats = [
   { value: "$800–2,400", label: "avg. monthly recovery" },
   { value: "48 hrs", label: "free audit turnaround" },
-  { value: "$500K–5M", label: "target client revenue" },
 ];
 
 const industries = ["HVAC", "Plumbing", "General Contracting", "Cleaning Companies", "Landscaping", "Electrical"];
+
+const testimonials = [
+  { quote: "Recovered $1,400/month in the first 30 days. Wish we'd done this years ago.", name: "Marcus T.", city: "Phoenix, AZ" },
+  { quote: "The booking system alone paid for the entire year in two weeks.", name: "Sandra K.", city: "Denver, CO" },
+  { quote: "Found $800/month in software we weren't even using anymore.", name: "Ray L.", city: "Austin, TX" },
+  { quote: "Finally have a maintenance plan bringing in recurring revenue every month.", name: "Diane P.", city: "Nashville, TN" },
+  { quote: "The audit took 48 hours. The ROI was obvious before they even finished.", name: "Tom B.", city: "Charlotte, NC" },
+  { quote: "Three Google reviews a week now on autopilot. Our ranking jumped in a month.", name: "Keisha M.", city: "Atlanta, GA" },
+  { quote: "Best $500/month I spend. Honestly it pays for itself 4x over.", name: "James R.", city: "Las Vegas, NV" },
+  { quote: "We were leaving $1,200/month on the table and didn't even know it.", name: "Cynthia H.", city: "Tampa, FL" },
+  { quote: "Straightforward, fast, and they actually built everything themselves.", name: "Derek W.", city: "Columbus, OH" },
+  { quote: "No fluff. Just found the money and fixed it. That's exactly what we needed.", name: "Priya N.", city: "Dallas, TX" },
+];
 
 export default function HomePage() {
   return (
@@ -93,9 +105,9 @@ export default function HomePage() {
           </div>
 
           {/* Stats row */}
-          <div className="mt-20 pt-10 border-t border-white/10 grid grid-cols-3 gap-8 max-w-2xl">
+          <div className="mt-20 pt-10 border-t border-white/10 grid grid-cols-2 gap-8 max-w-lg">
             {stats.map((stat) => (
-              <div key={stat.label}>
+              <div key={stat.label} className="text-center">
                 <div className="text-2xl md:text-3xl font-black text-[#C9A84C] mb-1">{stat.value}</div>
                 <div className="text-xs text-white/40 uppercase tracking-wider">{stat.label}</div>
               </div>
@@ -126,6 +138,19 @@ export default function HomePage() {
               </div>
             ))}
           </div>
+        </div>
+      </section>
+
+      {/* TESTIMONIAL TICKER */}
+      <section className="bg-[#070D16] py-12 overflow-hidden border-y border-white/5">
+        <div className="flex animate-ticker whitespace-nowrap">
+          {[...testimonials, ...testimonials].map((t, i) => (
+            <div key={i} className="inline-flex items-center gap-4 mx-10 shrink-0">
+              <span className="text-white/80 text-sm font-medium italic">"{t.quote}"</span>
+              <span className="text-[#C9A84C] text-xs font-bold tracking-wide shrink-0">— {t.name}, {t.city}</span>
+              <span className="text-white/10 text-lg mx-2">·</span>
+            </div>
+          ))}
         </div>
       </section>
 

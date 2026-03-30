@@ -37,10 +37,10 @@ export default function Footer() {
           <div>
             <h3 className="text-xs font-bold tracking-widest uppercase text-[#C9A84C] mb-4">Contact</h3>
             <a
-              href="mailto:josh@sharpmargin.com"
+              href="mailto:info@sharpmargin.com"
               className="text-white/60 hover:text-white text-sm transition-colors"
             >
-              josh@sharpmargin.com
+              info@sharpmargin.com
             </a>
             <div className="mt-6">
               <Link
