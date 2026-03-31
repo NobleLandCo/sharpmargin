@@ -57,9 +57,37 @@ const testimonials = [
   { quote: "No fluff. Just found the money and fixed it. That's exactly what we needed.", name: "Priya N.", city: "Dallas, TX" },
 ];
 
+const jsonLd = {
+  "@context": "https://schema.org",
+  "@type": "ProfessionalService",
+  name: "SharpMargin",
+  url: "https://www.sharpmargin.com",
+  logo: "https://www.sharpmargin.com/logo.png",
+  description:
+    "SharpMargin audits small service businesses for financial and time leaks — then fixes them. Most clients recover $800–2,400/month.",
+  address: {
+    "@type": "PostalAddress",
+    addressLocality: "Puyallup",
+    addressRegion: "WA",
+    addressCountry: "US",
+  },
+  telephone: "",
+  email: "info@sharpmargin.com",
+  priceRange: "$$",
+  areaServed: "United States",
+  serviceType: "Operations Consulting",
+  sameAs: [
+    "https://www.linkedin.com/company/sharpmargin",
+  ],
+};
+
 export default function HomePage() {
   return (
     <>
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLd) }}
+      />
       {/* HERO */}
       <section className="relative min-h-screen flex items-center bg-[#0C1828] overflow-hidden grid-bg">
         {/* Background accent */}
