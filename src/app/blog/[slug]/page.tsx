@@ -618,6 +618,233 @@ const posts: Post[] = [
       </article>
     ),
   },
+  {
+    slug: "how-to-start-a-small-business-from-scratch",
+    title: "How to Start a Small Business From Scratch (The Honest Guide)",
+    description:
+      "Most business startup guides are either too vague or written by people who've never done it. This one's from someone who has — multiple times.",
+    date: "April 4, 2026",
+    readTime: "10 min read",
+    tag: "Starting a Business",
+    faqs: [
+      {
+        q: "How long does it actually take to start a small business?",
+        a: "The legal and structural setup (LLC, domain, website, email, Google listing) can realistically be done in 2–3 weeks if you're focused and have help. Most people drag it out for months by overthinking it or trying to do everything themselves.",
+      },
+      {
+        q: "Do I need an LLC to start a small business?",
+        a: "Not on day one, but sooner is better than later. An LLC separates your personal assets from business liability and makes you look more legitimate to customers. In most states it costs $50–200 and takes a few days to file.",
+      },
+      {
+        q: "How much money do I need to start a small business?",
+        a: "For a service business, you can realistically launch for $500–2,000 covering LLC filing, domain, website, and basic software. Product businesses need more for inventory. Keep it lean until you have paying customers.",
+      },
+      {
+        q: "What's the biggest mistake first-time business owners make?",
+        a: "Spending months on setup instead of getting their first customer. The logo, website, and business cards don't pay the bills. The first paying customer does. Get to revenue as fast as possible, then refine everything else.",
+      },
+    ],
+    content: (
+      <article className="prose prose-invert prose-lg max-w-none prose-headings:font-black prose-headings:tracking-tight prose-a:text-[#C9A84C] prose-a:no-underline hover:prose-a:underline">
+        <p>
+          Every year, millions of people say they want to start a business. A small fraction actually do. The gap isn't money, talent, or even a good idea — it's the overwhelming feeling that there's too much to figure out before you can start.
+        </p>
+        <p>
+          This guide is for people who are done thinking about it. Here's exactly how to <strong>start a small business from scratch</strong> — in the right order, without the fluff.
+        </p>
+
+        <h2>Step 1: Pick One Idea and Commit to It</h2>
+        <p>
+          The most common reason people never start is trying to perfect the idea before launching. You won't know if a business idea works until you have paying customers. Pick the idea you're most likely to actually follow through on — not the one that sounds most impressive — and commit.
+        </p>
+        <p>
+          Good starting questions: Can you solve a real problem for a specific group of people? Can you reach those people without a massive marketing budget? Is there evidence someone is already paying for this?
+        </p>
+
+        <h2>Step 2: Get Your First Customer Before You Build Anything</h2>
+        <p>
+          Before the website. Before the logo. Before the LLC. Tell 10 people what you're offering and ask if they'd pay for it. If yes, do the work. That's a business. Everything else is infrastructure — and infrastructure can wait until you've validated you have something people want.
+        </p>
+        <p>
+          If you can't get one person to say yes informally, the idea needs work before you invest in setup.
+        </p>
+
+        <h2>Step 3: Form an LLC</h2>
+        <p>
+          Once you've validated the idea (or if you're confident enough to skip step 2), form an LLC. This protects your personal assets, establishes the business as a legal entity, and makes customers take you more seriously.
+        </p>
+        <p>Key decisions:</p>
+        <ul>
+          <li><strong>State:</strong> Most small businesses form in their home state. If you're a solo operator, don't overthink Wyoming or Delaware — it rarely matters at this stage.</li>
+          <li><strong>Registered agent:</strong> Required in most states. You can be your own or use a $50/year service like Northwest Registered Agent.</li>
+          <li><strong>Operating agreement:</strong> Even for single-member LLCs, have one. It takes 20 minutes and protects your liability shield.</li>
+        </ul>
+        <p>Cost: $50–200 depending on state. Time: 1–5 business days.</p>
+
+        <h2>Step 4: Secure Your Domain and Professional Email</h2>
+        <p>
+          Your domain is your business address on the internet. Get it before someone else does. Use Namecheap or Google Domains — expect to pay $10–15/year.
+        </p>
+        <p>
+          Set up a professional email address at that domain immediately. <em>youname@yourbusiness.com</em> reads completely differently than <em>yourbusiness2024@gmail.com</em>. Zoho Mail offers a free tier. Google Workspace costs $6/month and is worth it if you can afford it.
+        </p>
+
+        <h2>Step 5: Build a Simple Website</h2>
+        <p>
+          Your website doesn't need to be beautiful — it needs to exist and clearly answer three questions: What do you do? Who is it for? How do I contact you?
+        </p>
+        <p>
+          For most small businesses: a homepage, a services page, and a contact page is enough to launch. Add more later. The goal is not a perfect website — it's a credible one that's live.
+        </p>
+        <p>
+          Platform options: Webflow (most flexible), Squarespace (easiest for non-technical), or WordPress with a simple theme. If your business is anything technical or product-based, a Next.js site on Vercel gives you the most control at no hosting cost.
+        </p>
+
+        <h2>Step 6: Claim Your Google Business Profile</h2>
+        <p>
+          If you serve local customers, this is non-negotiable. A verified Google Business Profile makes you show up in Google Maps and local search results — and it's free. Fill out every field: hours, services, photos, description. Businesses with complete profiles get dramatically more clicks than incomplete ones.
+        </p>
+        <p>Verification takes 1–5 days (Google mails a postcard or offers instant video verification for some businesses).</p>
+
+        <h2>Step 7: Claim Your Social Handles</h2>
+        <p>
+          Even if you don't plan to use them immediately, claim your business name on Instagram, Facebook, LinkedIn, and TikTok now. Handles disappear. A consistent @yourbusiness across platforms looks professional and protects your brand.
+        </p>
+        <p>Post a simple "coming soon" or "open for business" post so the profiles don't look dead.</p>
+
+        <h2>Step 8: Set Up a Simple Booking or Contact System</h2>
+        <p>
+          How will customers reach you? Make it as frictionless as possible. For service businesses, a Calendly link or simple contact form on your website is enough to start. For product businesses, a checkout link via Stripe or Gumroad. Don't make potential customers guess how to hire you.
+        </p>
+
+        <h2>Step 9: Get Your First Paying Customer</h2>
+        <p>
+          Everything above is infrastructure. This is the business. Tell everyone you know what you're doing. Post on social. Reach out directly to people who might need what you offer. Don't wait for inbound — go get it.
+        </p>
+        <p>
+          Your first customer won't come from SEO or ads. They'll come from a direct conversation. That's fine. It's how every business starts.
+        </p>
+
+        <h2>What Takes Most People Months Can Take 3 Weeks</h2>
+        <p>
+          The reason most people spend 3–6 months "getting ready" isn't because it's complicated. It's because they're doing it alone, figuring out each step from scratch, and second-guessing every decision.
+        </p>
+        <p>
+          SharpMargin's <Link href="/launch">Launch service</Link> compresses all of this into three weeks. LLC, domain, logo, website, email, Google listing, social profiles, booking setup — done for you, built right, flat fee. If you'd rather skip the learning curve and just be open for business, <Link href="/contact">let's talk</Link>.
+        </p>
+      </article>
+    ),
+  },
+  {
+    slug: "llc-vs-sole-proprietor-small-business",
+    title: "LLC vs. Sole Proprietor: Which Is Right for Your Small Business?",
+    description:
+      "Before you launch, you need to pick a structure. Here's an honest breakdown of LLC vs. sole proprietorship — and how to choose without overcomplicating it.",
+    date: "April 4, 2026",
+    readTime: "7 min read",
+    tag: "Starting a Business",
+    faqs: [
+      {
+        q: "Can I start a business as a sole proprietor?",
+        a: "Yes. A sole proprietorship requires no formal setup — you're automatically one when you start making money on your own. The downside is there's no legal separation between you and the business. Your personal assets are exposed to business liability.",
+      },
+      {
+        q: "Is an LLC expensive to maintain?",
+        a: "Formation costs $50–200 depending on your state. Annual fees vary — some states charge nothing extra, others charge $50–800/year. Most small business owners find the liability protection worth the cost.",
+      },
+      {
+        q: "Does having an LLC affect my taxes?",
+        a: "A single-member LLC is taxed as a sole proprietor by default (pass-through taxation) — no double taxation. You can also elect S-Corp status once your net income exceeds ~$50K/year for potential self-employment tax savings.",
+      },
+      {
+        q: "When should I switch from sole proprietor to LLC?",
+        a: "As soon as you have paying customers and anything worth protecting (savings, a car, a house). The cost of forming an LLC is almost always less than the cost of one lawsuit. Don't wait.",
+      },
+    ],
+    content: (
+      <article className="prose prose-invert prose-lg max-w-none prose-headings:font-black prose-headings:tracking-tight prose-a:text-[#C9A84C] prose-a:no-underline hover:prose-a:underline">
+        <p>
+          One of the first decisions every new business owner faces: do I need an LLC, or can I just start as a sole proprietor? It's a real question, and the right answer depends on your situation. Here's the honest breakdown — no law school required.
+        </p>
+
+        <h2>What Is a Sole Proprietorship?</h2>
+        <p>
+          A sole proprietorship is the default structure for anyone making money on their own. You don't file anything — you're automatically a sole proprietor the moment you start earning income as an individual. It's simple, free, and requires no paperwork beyond a business license in some jurisdictions.
+        </p>
+        <p>
+          The trade-off: there is zero legal separation between you and your business. If your business gets sued, your personal bank account, car, and home are all on the table.
+        </p>
+
+        <h2>What Is an LLC?</h2>
+        <p>
+          A Limited Liability Company (LLC) is a formal legal entity you create by filing with your state. Once formed, the business exists separately from you — meaning business debts and lawsuits generally can't touch your personal assets (with some exceptions, like personal guarantees or fraud).
+        </p>
+        <p>
+          LLCs also offer flexible taxation: by default, a single-member LLC is taxed exactly like a sole proprietor (income passes through to your personal return). Once your business is profitable enough, you can elect S-Corp status for potential self-employment tax savings.
+        </p>
+
+        <h2>Side-by-Side Comparison</h2>
+
+        <h3>Liability Protection</h3>
+        <ul>
+          <li><strong>Sole Proprietor:</strong> None. You are the business. Every liability is personal.</li>
+          <li><strong>LLC:</strong> Strong. Business liability stays with the business in most cases.</li>
+        </ul>
+
+        <h3>Setup Cost</h3>
+        <ul>
+          <li><strong>Sole Proprietor:</strong> $0 (maybe a local business license: $20–100)</li>
+          <li><strong>LLC:</strong> $50–200 state filing fee + ~$50/year for a registered agent if needed</li>
+        </ul>
+
+        <h3>Annual Requirements</h3>
+        <ul>
+          <li><strong>Sole Proprietor:</strong> Minimal. File Schedule C on your personal taxes.</li>
+          <li><strong>LLC:</strong> Annual reports in most states ($0–800/year depending on state). Keep business and personal finances separate.</li>
+        </ul>
+
+        <h3>Taxes</h3>
+        <ul>
+          <li><strong>Sole Proprietor:</strong> Pass-through taxation. Report on Schedule C.</li>
+          <li><strong>LLC:</strong> Same as sole proprietor by default. S-Corp election available when income is high enough to justify it (typically $50K+ net).</li>
+        </ul>
+
+        <h3>Credibility</h3>
+        <ul>
+          <li><strong>Sole Proprietor:</strong> Lower — customers and vendors notice the absence of "LLC" or "Inc."</li>
+          <li><strong>LLC:</strong> Higher — signals you're serious and operating as a real business.</li>
+        </ul>
+
+        <h2>When a Sole Proprietorship Makes Sense</h2>
+        <p>Start as a sole proprietor if you're:</p>
+        <ul>
+          <li>Testing an idea before committing to it</li>
+          <li>Freelancing or consulting with very low liability risk</li>
+          <li>In a state with very high LLC annual fees (California charges $800/year minimum)</li>
+          <li>Making under $5K/year and not yet sure it's a real business</li>
+        </ul>
+
+        <h2>When an LLC Is the Right Move</h2>
+        <p>Form an LLC if you're:</p>
+        <ul>
+          <li>Working with clients in person (any physical service business)</li>
+          <li>Signing contracts</li>
+          <li>Have personal assets worth protecting (savings, a house, a car)</li>
+          <li>Planning to open a business bank account (most banks prefer an LLC)</li>
+          <li>Building something you plan to grow, sell, or bring in partners on</li>
+        </ul>
+        <p>For most people starting a real small business, the answer is: form the LLC. The protection is worth $100–200 and a few hours of paperwork.</p>
+
+        <h2>The Move Most People Make</h2>
+        <p>
+          Start as a sole proprietor to test the idea and get your first customers. Form the LLC within the first 30–60 days once you've confirmed people will actually pay you. Don't let the structure question stop you from starting — but don't ignore it indefinitely either.
+        </p>
+        <p>
+          If you'd rather skip the research and just have someone handle the LLC formation, entity choice, and every other piece of the startup stack for you, that's exactly what <Link href="/launch">SharpMargin Launch</Link> is designed for. <Link href="/contact">Get in touch</Link> and we'll get your business built in three weeks.
+        </p>
+      </article>
+    ),
+  },
 ];
 
 type Props = {

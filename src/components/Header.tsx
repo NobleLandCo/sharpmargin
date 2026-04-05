@@ -5,7 +5,8 @@ import { useState } from "react";
 import Logo from "./Logo";
 
 const navLinks = [
-  { href: "/services", label: "Services" },
+  { href: "/services", label: "Optimize" },
+  { href: "/launch", label: "Launch" },
   { href: "/blog", label: "Blog" },
   { href: "/faq", label: "FAQ" },
   { href: "/about", label: "About" },

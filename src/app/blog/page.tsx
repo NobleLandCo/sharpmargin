@@ -9,6 +9,22 @@ export const metadata: Metadata = {
 
 const posts = [
   {
+    slug: "how-to-start-a-small-business-from-scratch",
+    title: "How to Start a Small Business From Scratch (The Honest Guide)",
+    description: "Most business startup guides are either too vague or written by people who've never done it. This one's from someone who has — multiple times.",
+    date: "April 4, 2026",
+    readTime: "10 min read",
+    tag: "Starting a Business",
+  },
+  {
+    slug: "llc-vs-sole-proprietor-small-business",
+    title: "LLC vs. Sole Proprietor: Which Is Right for Your Small Business?",
+    description: "Before you launch, you need to pick a structure. Here's an honest breakdown of LLC vs. sole proprietorship — and how to choose without overcomplicating it.",
+    date: "April 4, 2026",
+    readTime: "7 min read",
+    tag: "Starting a Business",
+  },
+  {
     slug: "hvac-profit-margin",
     title: "How to Increase Profit Margin for Your HVAC Business",
     description:
