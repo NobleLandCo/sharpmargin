@@ -1,0 +1,14 @@
+<svg width="256" height="256" viewBox="0 0 256 256" xmlns="http://www.w3.org/2000/svg">
+  <rect width="256" height="256" fill="#0C1828"/>
+  <rect x="48" y="48" width="160" height="160" fill="none" stroke="#C9A84C" stroke-width="1.5"/>
+  <!-- Corner brackets -->
+  <polyline points="48,68 48,48 68,48" fill="none" stroke="#C9A84C" stroke-width="3" stroke-linecap="square"/>
+  <polyline points="188,48 208,48 208,68" fill="none" stroke="#C9A84C" stroke-width="3" stroke-linecap="square"/>
+  <polyline points="48,188 48,208 68,208" fill="none" stroke="#C9A84C" stroke-width="3" stroke-linecap="square"/>
+  <polyline points="188,208 208,208 208,188" fill="none" stroke="#C9A84C" stroke-width="3" stroke-linecap="square"/>
+  <!-- Diagonal arrow -->
+  <line x1="66" y1="190" x2="190" y2="66" stroke="#C9A84C" stroke-width="1.8" stroke-linecap="round"/>
+  <circle cx="190" cy="66" r="5" fill="#C9A84C"/>
+  <!-- SM text using system serif -->
+  <text x="128" y="158" font-family="Georgia, serif" font-size="90" font-weight="700" fill="white" text-anchor="middle">SM</text>
+</svg>
