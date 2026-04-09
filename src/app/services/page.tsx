@@ -387,6 +387,68 @@ export default function ServicesPage() {
         </div>
       </section>
 
+      {/* ADDITIONAL SERVICES */}
+      <section className="bg-[#0C1828] py-20 border-t border-white/5">
+        <div className="max-w-6xl mx-auto px-6">
+          <p className="text-[#C9A84C] text-xs font-bold tracking-widest uppercase mb-4">More Services</p>
+          <h2 className="text-3xl md:text-4xl font-black text-white tracking-tight mb-12">
+            Need something different?
+          </h2>
+          <div className="grid grid-cols-1 md:grid-cols-2 gap-8">
+
+            {/* Launch */}
+            <div className="rounded-xl border border-white/10 bg-[#0A0A0A] p-8 flex flex-col justify-between">
+              <div>
+                <p className="text-[#C9A84C] text-xs font-bold tracking-widest uppercase mb-3">SharpMargin Launch</p>
+                <h3 className="text-white text-2xl font-black mb-4">Start your business in 3 weeks.</h3>
+                <p className="text-white/50 text-sm leading-relaxed mb-6">
+                  LLC. Logo. Website. Email. Booking. Google listing. Social profiles. All of it — done for you, built right, flat fee. No agency markup, no DIY nightmare.
+                </p>
+                <ul className="space-y-2 mb-8">
+                  {["LLC formation", "Domain + professional email", "Logo + brand identity", "Website (mobile-optimized)", "Google Business Profile", "CRM + booking setup", "Social profiles claimed"].map((item) => (
+                    <li key={item} className="flex items-start gap-2 text-white/60 text-sm">
+                      <span className="text-[#C9A84C] mt-0.5">✓</span>{item}
+                    </li>
+                  ))}
+                </ul>
+              </div>
+              <div>
+                <p className="text-white font-black text-xl mb-4">$1,500 – $2,500 <span className="text-white/40 text-sm font-normal">flat fee</span></p>
+                <Link href="/launch" className="inline-block bg-[#C9A84C] text-black font-bold text-sm px-6 py-3 rounded-lg hover:bg-[#b8963d] transition-colors">
+                  Learn More →
+                </Link>
+              </div>
+            </div>
+
+            {/* Referral Network Builder */}
+            <div className="rounded-xl border border-white/10 bg-[#0A0A0A] p-8 flex flex-col justify-between">
+              <div>
+                <p className="text-[#C9A84C] text-xs font-bold tracking-widest uppercase mb-3">Referral Network Builder</p>
+                <h3 className="text-white text-2xl font-black mb-4">We build your referral pipeline. You close deals.</h3>
+                <p className="text-white/50 text-sm leading-relaxed mb-6">
+                  We identify, reach, and warm up the attorneys, CPAs, and professionals most likely to send you deals — then automate the follow-up so no lead goes cold. Built for land investors and real estate operators.
+                </p>
+                <ul className="space-y-2 mb-8">
+                  {["200–500 targeted professionals per state", "Personalized outreach sent on your behalf", "A/B/C angle testing to find what converts", "Automated 7-day follow-up sequences", "Full tracking + reply monitoring", "New contacts added monthly"].map((item) => (
+                    <li key={item} className="flex items-start gap-2 text-white/60 text-sm">
+                      <span className="text-[#C9A84C] mt-0.5">✓</span>{item}
+                    </li>
+                  ))}
+                </ul>
+              </div>
+              <div>
+                <p className="text-white font-black text-xl mb-1">$997 <span className="text-white/40 text-sm font-normal">setup</span></p>
+                <p className="text-white/50 text-sm mb-4">+ $497/mo ongoing</p>
+                <Link href="/contact" className="inline-block bg-[#C9A84C] text-black font-bold text-sm px-6 py-3 rounded-lg hover:bg-[#b8963d] transition-colors">
+                  Get Started →
+                </Link>
+              </div>
+            </div>
+
+          </div>
+        </div>
+      </section>
+
       {/* FAQ-style objection busting */}
       <section className="bg-[#0A0A0A] py-24 border-t border-white/5">
         <div className="max-w-3xl mx-auto px-6">
