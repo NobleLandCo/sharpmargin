@@ -42,7 +42,7 @@ const stats = [
   { value: "48 hrs", label: "free audit turnaround" },
 ];
 
-const industries = ["HVAC", "Plumbing", "General Contracting", "Cleaning Companies", "Landscaping", "Electrical"];
+const industries = ["Solo Attorneys", "Law Firms", "Estate Planning", "Family Law", "Business Law", "Real Estate Law"];
 
 const testimonials = [
   { quote: "Recovered $1,400/month in the first 30 days. Wish we'd done this years ago.", name: "Marcus T.", city: "Phoenix, AZ" },
@@ -189,13 +189,13 @@ export default function HomePage() {
             <div>
               <p className="text-[#C9A84C] text-xs font-bold tracking-widest uppercase mb-3">Who We Serve</p>
               <h2 className="text-3xl md:text-4xl font-black text-white tracking-tight mb-6">
-                Small service businesses doing real volume.
+                Law practices leaving money on the table.
               </h2>
               <p className="text-white/60 leading-relaxed mb-8">
-                If you're running a service company between $500K and $5M in revenue, you're in the zone where operations complexity starts eating your margin. You're too big to wing it, too lean to hire a CFO.
+                If you're running a solo practice or small firm, you're billing hours while your business runs itself — except it isn't. Referrals slip, intake is clunky, and your online presence doesn't match the caliber of your work.
               </p>
               <p className="text-white/60 leading-relaxed mb-10">
-                That's exactly where SharpMargin works. We've seen the same $30K+ in annual waste hiding in scheduling gaps, vendor contracts, software bloat, and unbilled time — across dozens of companies just like yours.
+                That's exactly where SharpMargin works. We've seen the same $30K+ in annual revenue slipping through the cracks — unbilled hours, weak online presence, missed referrals, and outdated client intake processes — across law practices just like yours.
               </p>
               <Link
                 href="/contact"
