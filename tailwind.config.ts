@@ -24,12 +24,12 @@ const config: Config = {
         tighter: "-0.02em",
       },
       animation: {
-        ticker: "ticker 6s linear infinite",
+        ticker: "ticker 20s linear infinite",
       },
       keyframes: {
         ticker: {
           "0%": { transform: "translateX(0)" },
-          "100%": { transform: "translateX(-50%)" },
+          "100%": { transform: "translateX(-25%)" },
         },
       },
     },

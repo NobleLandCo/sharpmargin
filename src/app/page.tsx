@@ -181,8 +181,8 @@ export default function HomePage() {
         <div className="relative">
           <div className="absolute left-0 top-0 bottom-0 w-20 bg-gradient-to-r from-[#070D16] to-transparent z-10 pointer-events-none" />
           <div className="absolute right-0 top-0 bottom-0 w-20 bg-gradient-to-l from-[#070D16] to-transparent z-10 pointer-events-none" />
-          <div className="flex animate-ticker whitespace-nowrap">
-            {[...testimonials, ...testimonials].map((t, i) => (
+          <div className="flex animate-ticker whitespace-nowrap w-max">
+            {[...testimonials, ...testimonials, ...testimonials, ...testimonials].map((t, i) => (
               <div key={i} className="inline-flex items-center gap-3 mx-8 shrink-0 whitespace-nowrap">
                 <span className="text-[#C9A84C] text-base font-black shrink-0">&ldquo;</span>
                 <span className="text-white/90 text-base font-semibold italic shrink-0">{t.quote}</span>
