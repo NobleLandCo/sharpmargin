@@ -156,8 +156,80 @@ POSTS = [
         "after": ["Fix the math\nbefore you grow."],
         "filename": "post-27.jpg",
     },
+    # post-28 (local: Tacoma HVAC)
+    {
+        "before": ["A Tacoma HVAC company\nwas doing $40k/mo."],
+        "green": "Keeping $3k.",
+        "after": ["We fixed their\nlabor pricing.\nNow they keep $11k."],
+        "filename": "post-28.jpg",
+    },
+    # post-29 (problem-solution: hidden overhead)
+    {
+        "before": ["You raised prices 10%.\nProfit barely moved."],
+        "green": "Hidden overhead",
+        "after": ["is eating your margin.\nFind it before\nyour competition does."],
+        "filename": "post-29.jpg",
+    },
+    # post-30 (local: Seattle small biz)
+    {
+        "before": ["Seattle rents\nwent up 22%."],
+        "green": "Your prices didn't.",
+        "after": ["That's not loyalty.\nThat's a slow\nbusiness death."],
+        "filename": "post-30.jpg",
+    },
+    # post-31 (problem-solution: busy but broke)
+    {
+        "before": ["Fully booked.\nStaff at max.\nBank account empty."],
+        "green": "That's a pricing problem,",
+        "after": ["not a\nmarketing problem."],
+        "filename": "post-31.jpg",
+    },
+    # post-32 (local: PNW trades)
+    {
+        "before": ["Most PNW contractors\nbid to win work."],
+        "green": "The profitable ones",
+        "after": ["bid to\nweed out\nthe wrong clients."],
+        "filename": "post-32.jpg",
+    },
+    # post-33 (problem-solution: real example)
+    {
+        "before": ["Owner works 60 hrs/wk.\nPays himself $3k/mo."],
+        "green": "Two pricing changes.",
+        "after": ["Same hours.\n$6,200/mo.\nThis is fixable."],
+        "filename": "post-33.jpg",
+    },
+    # post-34 (local: Tacoma restaurants)
+    {
+        "before": ["Tacoma restaurants\nrun 3-5% margins."],
+        "green": "The ones that survive",
+        "after": ["obsess over\nfood cost %,\nnot foot traffic."],
+        "filename": "post-34.jpg",
+    },
+    # post-35 (problem-solution: subscription bloat)
+    {
+        "before": ["The average small biz\npays for 14 software tools."],
+        "green": "Uses 6.",
+        "after": ["That's $400-800/mo\nstraight to\nsomeone else's margin."],
+        "filename": "post-35.jpg",
+    },
+    # post-36 (local: Seattle service biz)
+    {
+        "before": ["A Seattle cleaning\ncompany added one\nupsell per job."],
+        "green": "$180 → $240 avg ticket.",
+        "after": ["Zero new customers.\n33% more revenue.\nMargins doubled."],
+        "filename": "post-36.jpg",
+    },
+    # post-37 (problem-solution: free audit CTA)
+    {
+        "before": ["Most owners discover\ntheir margin leaks"],
+        "green": "too late.",
+        "after": ["A free 30-min audit\nfinds them early.\nDM us to book."],
+        "filename": "post-37.jpg",
+    },
 ]
 
+
+MARGIN = 80  # left/right padding — text must stay within this
 
 def load_font(size, bold=False):
     candidates = [
@@ -170,6 +242,18 @@ def load_font(size, bold=False):
         if os.path.exists(c):
             return ImageFont.truetype(c, size)
     return ImageFont.load_default()
+
+def fit_font(draw, text, bold, max_width, start_size=92, min_size=36):
+    """Find largest font size where every line fits within max_width."""
+    size = start_size
+    while size >= min_size:
+        font = load_font(size, bold=bold)
+        fits = all((draw.textbbox((0,0), line, font=font)[2] - draw.textbbox((0,0), line, font=font)[0]) <= max_width
+                   for line in text.split("\n"))
+        if fits:
+            return font, size
+        size -= 2
+    return load_font(min_size, bold=bold), min_size
 
 
 def text_block_height(draw, text, font):

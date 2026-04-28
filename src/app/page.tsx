@@ -55,6 +55,10 @@ const testimonials = [
   { quote: "We were leaving $1,200/month on the table and didn't even know it.", name: "Cynthia H.", city: "Tampa, FL" },
   { quote: "Straightforward, fast, and they actually built everything themselves.", name: "Derek W.", city: "Columbus, OH" },
   { quote: "No fluff. Just found the money and fixed it. That's exactly what we needed.", name: "Priya N.", city: "Dallas, TX" },
+  { quote: "I thought we were running lean. We were bleeding $1,100/month. Fixed in 3 weeks.", name: "Carlos M.", city: "San Antonio, TX" },
+  { quote: "Our cafe had more waste than I realized. SharpMargin paid for itself in the first month.", name: "Lisa F.", city: "Portland, OR" },
+  { quote: "They found vendor overcharges I'd been paying for 2 years. Got it all restructured fast.", name: "Tony R.", city: "Sacramento, CA" },
+  { quote: "Didn't expect much from a free audit. Left with a roadmap that recovered $900/month.", name: "Beth A.", city: "Seattle, WA" },
 ];
 
 const jsonLd = {
@@ -170,15 +174,23 @@ export default function HomePage() {
       </section>
 
       {/* TESTIMONIAL TICKER */}
-      <section className="bg-[#070D16] py-12 overflow-hidden border-y border-white/5">
-        <div className="flex animate-ticker whitespace-nowrap">
-          {[...testimonials, ...testimonials].map((t, i) => (
-            <div key={i} className="inline-flex items-center gap-4 mx-10 shrink-0">
-              <span className="text-white/80 text-sm font-medium italic">"{t.quote}"</span>
-              <span className="text-[#C9A84C] text-xs font-bold tracking-wide shrink-0">— {t.name}, {t.city}</span>
-              <span className="text-white/10 text-lg mx-2">·</span>
-            </div>
-          ))}
+      <section className="bg-[#070D16] py-16 overflow-hidden border-y border-[#C9A84C]/20">
+        <div className="text-center mb-8">
+          <p className="text-[#C9A84C] text-xs font-bold tracking-widest uppercase">What Clients Are Saying</p>
+        </div>
+        <div className="relative">
+          {/* Fade edges */}
+          <div className="absolute left-0 top-0 bottom-0 w-24 bg-gradient-to-r from-[#070D16] to-transparent z-10 pointer-events-none" />
+          <div className="absolute right-0 top-0 bottom-0 w-24 bg-gradient-to-l from-[#070D16] to-transparent z-10 pointer-events-none" />
+          <div className="flex animate-ticker whitespace-nowrap">
+            {[...testimonials, ...testimonials].map((t, i) => (
+              <div key={i} className="inline-flex items-center gap-4 mx-8 shrink-0 px-6 py-4 rounded-lg border border-[#C9A84C]/15 bg-[#C9A84C]/5">
+                <span className="text-[#C9A84C] text-lg leading-none">&ldquo;</span>
+                <span className="text-white/85 text-sm font-medium">{t.quote}</span>
+                <span className="text-[#C9A84C] text-xs font-bold tracking-wide shrink-0 whitespace-nowrap">— {t.name}, {t.city}</span>
+              </div>
+            ))}
+          </div>
         </div>
       </section>
 
