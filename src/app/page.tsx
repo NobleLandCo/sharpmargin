@@ -174,20 +174,20 @@ export default function HomePage() {
       </section>
 
       {/* TESTIMONIAL TICKER */}
-      <section className="bg-[#070D16] py-16 overflow-hidden border-y border-[#C9A84C]/20">
+      <section className="bg-[#070D16] py-14 overflow-hidden border-y border-[#C9A84C]/20">
         <div className="text-center mb-8">
           <p className="text-[#C9A84C] text-xs font-bold tracking-widest uppercase">What Clients Are Saying</p>
         </div>
         <div className="relative">
-          {/* Fade edges */}
-          <div className="absolute left-0 top-0 bottom-0 w-24 bg-gradient-to-r from-[#070D16] to-transparent z-10 pointer-events-none" />
-          <div className="absolute right-0 top-0 bottom-0 w-24 bg-gradient-to-l from-[#070D16] to-transparent z-10 pointer-events-none" />
+          <div className="absolute left-0 top-0 bottom-0 w-20 bg-gradient-to-r from-[#070D16] to-transparent z-10 pointer-events-none" />
+          <div className="absolute right-0 top-0 bottom-0 w-20 bg-gradient-to-l from-[#070D16] to-transparent z-10 pointer-events-none" />
           <div className="flex animate-ticker whitespace-nowrap">
             {[...testimonials, ...testimonials].map((t, i) => (
-              <div key={i} className="inline-flex items-center gap-4 mx-8 shrink-0 px-6 py-4 rounded-lg border border-[#C9A84C]/15 bg-[#C9A84C]/5">
-                <span className="text-[#C9A84C] text-lg leading-none">&ldquo;</span>
-                <span className="text-white/85 text-sm font-medium">{t.quote}</span>
-                <span className="text-[#C9A84C] text-xs font-bold tracking-wide shrink-0 whitespace-nowrap">— {t.name}, {t.city}</span>
+              <div key={i} className="inline-flex items-center gap-3 mx-6 shrink-0">
+                <span className="text-[#C9A84C] text-base font-black">&ldquo;</span>
+                <span className="text-white/90 text-base font-semibold italic max-w-xs">{t.quote}</span>
+                <span className="text-[#C9A84C] text-sm font-bold tracking-wide shrink-0">— {t.name}, {t.city}</span>
+                <span className="text-[#C9A84C]/30 text-2xl mx-4">&#9670;</span>
               </div>
             ))}
           </div>
