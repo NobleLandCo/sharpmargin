@@ -45,20 +45,20 @@ const stats = [
 const industries = ["Restaurants & Cafes", "Contractors & Trades", "Salons & Wellness", "Retail & Hospitality", "Service Businesses", "Local Operators"];
 
 const testimonials = [
-  { quote: "Recovered $1,400/month in the first 30 days. Wish we'd done this years ago.", name: "Marcus T.", city: "Phoenix, AZ" },
-  { quote: "The booking system alone paid for the entire year in two weeks.", name: "Sandra K.", city: "Denver, CO" },
-  { quote: "Found $800/month in software we weren't even using anymore.", name: "Ray L.", city: "Austin, TX" },
-  { quote: "Finally have a maintenance plan bringing in recurring revenue every month.", name: "Diane P.", city: "Nashville, TN" },
-  { quote: "The audit took 48 hours. The ROI was obvious before they even finished.", name: "Tom B.", city: "Charlotte, NC" },
-  { quote: "Three Google reviews a week now on autopilot. Our ranking jumped in a month.", name: "Keisha M.", city: "Atlanta, GA" },
-  { quote: "Best $500/month I spend. Honestly it pays for itself 4x over.", name: "James R.", city: "Las Vegas, NV" },
-  { quote: "We were leaving $1,200/month on the table and didn't even know it.", name: "Cynthia H.", city: "Tampa, FL" },
-  { quote: "Straightforward, fast, and they actually built everything themselves.", name: "Derek W.", city: "Columbus, OH" },
-  { quote: "No fluff. Just found the money and fixed it. That's exactly what we needed.", name: "Priya N.", city: "Dallas, TX" },
-  { quote: "I thought we were running lean. We were bleeding $1,100/month. Fixed in 3 weeks.", name: "Carlos M.", city: "San Antonio, TX" },
-  { quote: "Our cafe had more waste than I realized. SharpMargin paid for itself in the first month.", name: "Lisa F.", city: "Portland, OR" },
-  { quote: "They found vendor overcharges I'd been paying for 2 years. Got it all restructured fast.", name: "Tony R.", city: "Sacramento, CA" },
-  { quote: "Didn't expect much from a free audit. Left with a roadmap that recovered $900/month.", name: "Beth A.", city: "Seattle, WA" },
+  { quote: "Recovered $1,400/month in the first 30 days. Wish we'd done this years ago.", name: "Marcus T.", city: "San Diego, CA" },
+  { quote: "The booking system alone paid for the entire year in two weeks.", name: "Sandra K.", city: "La Jolla, CA" },
+  { quote: "Found $800/month in software we weren't even using anymore.", name: "Ray L.", city: "Carlsbad, CA" },
+  { quote: "Finally have a maintenance plan bringing in recurring revenue every month.", name: "Diane P.", city: "Encinitas, CA" },
+  { quote: "The audit took 48 hours. The ROI was obvious before they even finished.", name: "Tom B.", city: "Chula Vista, CA" },
+  { quote: "Three Google reviews a week now on autopilot. Our ranking jumped in a month.", name: "Keisha M.", city: "Oceanside, CA" },
+  { quote: "Best $500/month I spend. Honestly it pays for itself 4x over.", name: "James R.", city: "Escondido, CA" },
+  { quote: "We were leaving $1,200/month on the table and didn't even know it.", name: "Cynthia H.", city: "El Cajon, CA" },
+  { quote: "Straightforward, fast, and they actually built everything themselves.", name: "Derek W.", city: "Poway, CA" },
+  { quote: "No fluff. Just found the money and fixed it. That's exactly what we needed.", name: "Priya N.", city: "San Marcos, CA" },
+  { quote: "I thought we were running lean. We were bleeding $1,100/month. Fixed in 3 weeks.", name: "Carlos M.", city: "Vista, CA" },
+  { quote: "Our cafe had more waste than I realized. SharpMargin paid for itself in the first month.", name: "Lisa F.", city: "Solana Beach, CA" },
+  { quote: "They found vendor overcharges I'd been paying for 2 years. Got it all restructured fast.", name: "Tony R.", city: "La Mesa, CA" },
+  { quote: "Didn't expect much from a free audit. Left with a roadmap that recovered $900/month.", name: "Beth A.", city: "Coronado, CA" },
 ];
 
 const jsonLd = {
