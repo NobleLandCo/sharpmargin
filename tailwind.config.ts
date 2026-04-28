@@ -24,7 +24,7 @@ const config: Config = {
         tighter: "-0.02em",
       },
       animation: {
-        ticker: "ticker 12s linear infinite",
+        ticker: "ticker 6s linear infinite",
       },
       keyframes: {
         ticker: {
