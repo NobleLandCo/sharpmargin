@@ -42,7 +42,7 @@ const stats = [
   { value: "48 hrs", label: "free audit turnaround" },
 ];
 
-const industries = ["Solo Attorneys", "Law Firms", "Estate Planning", "Family Law", "Business Law", "Real Estate Law"];
+const industries = ["Restaurants & Cafes", "Contractors & Trades", "Salons & Wellness", "Retail & Hospitality", "Service Businesses", "Local Operators"];
 
 const testimonials = [
   { quote: "Recovered $1,400/month in the first 30 days. Wish we'd done this years ago.", name: "Marcus T.", city: "Phoenix, AZ" },
@@ -189,13 +189,13 @@ export default function HomePage() {
             <div>
               <p className="text-[#C9A84C] text-xs font-bold tracking-widest uppercase mb-3">Who We Serve</p>
               <h2 className="text-3xl md:text-4xl font-black text-white tracking-tight mb-6">
-                Law practices leaving money on the table.
+                Small businesses built with their hands — leaving money on the table.
               </h2>
               <p className="text-white/60 leading-relaxed mb-8">
-                If you're running a solo practice or small firm, you're billing hours while your business runs itself — except it isn't. Referrals slip, intake is clunky, and your online presence doesn't match the caliber of your work.
+                If you've built something real — a restaurant, a shop, a service crew — you're running it while your margins quietly leak. Vendor markups, unused software, unbilled time, scheduling gaps. It adds up fast.
               </p>
               <p className="text-white/60 leading-relaxed mb-10">
-                That's exactly where SharpMargin works. We've seen the same $30K+ in annual revenue slipping through the cracks — unbilled hours, weak online presence, missed referrals, and outdated client intake processes — across law practices just like yours.
+                That's exactly where SharpMargin works. We've seen the same $30K+ in annual revenue slipping through the cracks across businesses just like yours. We find it, fix it, and hand you back the margin.
               </p>
               <Link
                 href="/contact"
