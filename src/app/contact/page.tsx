@@ -23,12 +23,28 @@ export default function ContactPage() {
     setLoading(true);
     setError("");
     try {
-      const res = await fetch("/api/contact", {
+      const revenueLabel: Record<string, string> = {
+        "under-500k": "Under $500K",
+        "500k-1m": "$500K – $1M",
+        "1m-2m": "$1M – $2M",
+        "2m-5m": "$2M – $5M",
+        "over-5m": "Over $5M",
+      };
+      const res = await fetch("https://api.web3forms.com/submit", {
         method: "POST",
         headers: { "Content-Type": "application/json" },
-        body: JSON.stringify(form),
+        body: JSON.stringify({
+          access_key: "1a593a78-030a-4b9c-8e13-f4bf60faee80",
+          subject: `New Audit Request — ${form.business}`,
+          name: form.name,
+          email: form.email,
+          business: form.business,
+          annual_revenue: form.revenue ? revenueLabel[form.revenue] || form.revenue : "Not provided",
+          biggest_pain_point: form.message || "Not provided",
+        }),
       });
-      if (!res.ok) throw new Error("Failed to submit");
+      const data = await res.json();
+      if (!data.success) throw new Error("Submission failed");
       setSubmitted(true);
     } catch {
       setError("Something went wrong. Please email us directly at info@sharpmargin.com");
