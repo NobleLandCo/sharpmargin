@@ -4,6 +4,8 @@ import { useState } from "react";
 
 export default function ContactPage() {
   const [submitted, setSubmitted] = useState(false);
+  const [loading, setLoading] = useState(false);
+  const [error, setError] = useState("");
   const [form, setForm] = useState({
     name: "",
     email: "",
@@ -16,10 +18,23 @@ export default function ContactPage() {
     setForm({ ...form, [e.target.name]: e.target.value });
   }
 
-  function handleSubmit(e: React.FormEvent) {
+  async function handleSubmit(e: React.FormEvent) {
     e.preventDefault();
-    // In production: wire to Formspree, Resend, or similar
-    setSubmitted(true);
+    setLoading(true);
+    setError("");
+    try {
+      const res = await fetch("/api/contact", {
+        method: "POST",
+        headers: { "Content-Type": "application/json" },
+        body: JSON.stringify(form),
+      });
+      if (!res.ok) throw new Error("Failed to submit");
+      setSubmitted(true);
+    } catch {
+      setError("Something went wrong. Please email us directly at info@sharpmargin.com");
+    } finally {
+      setLoading(false);
+    }
   }
 
   return (
@@ -190,11 +205,15 @@ export default function ContactPage() {
                     />
                   </div>
 
+                  {error && (
+                    <p className="text-red-400 text-sm text-center">{error}</p>
+                  )}
                   <button
                     type="submit"
-                    className="w-full px-8 py-4 bg-[#C9A84C] text-[#0C1828] font-bold text-sm tracking-wider uppercase rounded hover:bg-[#d4b460] transition-colors shadow-lg shadow-[#C9A84C]/20"
+                    disabled={loading}
+                    className="w-full px-8 py-4 bg-[#C9A84C] text-[#0C1828] font-bold text-sm tracking-wider uppercase rounded hover:bg-[#d4b460] transition-colors shadow-lg shadow-[#C9A84C]/20 disabled:opacity-60 disabled:cursor-not-allowed"
                   >
-                    Request Free Audit
+                    {loading ? "Sending..." : "Request Free Audit"}
                   </button>
 
                   <p className="text-white/30 text-xs text-center">
