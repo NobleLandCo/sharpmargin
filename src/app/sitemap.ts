@@ -1,14 +1,16 @@
 import { MetadataRoute } from "next";
+import { blogPosts } from "@/lib/blog-posts";
 
 export default function sitemap(): MetadataRoute.Sitemap {
   const base = "https://www.sharpmargin.com";
   const now = new Date();
 
-  const blogSlugs = [
-    "hvac-profit-margin",
-    "small-business-operations-consultant",
-    "reduce-overhead-costs-small-business",
-    "hvac-business-growth-strategies",
+  const stateLandingPages = [
+    "idaho",
+    "nevada",
+    "montana",
+    "tennessee",
+    "oklahoma",
   ];
 
   return [
@@ -48,8 +50,16 @@ export default function sitemap(): MetadataRoute.Sitemap {
       changeFrequency: "weekly",
       priority: 0.8,
     },
-    ...blogSlugs.map((slug) => ({
-      url: `${base}/blog/${slug}`,
+    // State landing pages
+    ...stateLandingPages.map((state) => ({
+      url: `${base}/${state}`,
+      lastModified: now,
+      changeFrequency: "monthly" as const,
+      priority: 0.85,
+    })),
+    // Blog posts (dynamic from data file)
+    ...blogPosts.map((post) => ({
+      url: `${base}/blog/${post.slug}`,
       lastModified: now,
       changeFrequency: "monthly" as const,
       priority: 0.7,

@@ -1,5 +1,6 @@
 import type { Metadata } from "next";
 import Link from "next/link";
+import { blogPosts } from "@/lib/blog-posts";
 
 export const metadata: Metadata = {
   title: "Blog — Operations & Profit Margin Tips | SharpMargin",
@@ -7,62 +8,11 @@ export const metadata: Metadata = {
     "Expert advice on increasing profit margins, reducing overhead, and growing your HVAC or service business. Practical operations insights from SharpMargin.",
 };
 
-const posts = [
-  {
-    slug: "how-to-start-a-small-business-from-scratch",
-    title: "How to Start a Small Business From Scratch (The Honest Guide)",
-    description: "Most business startup guides are either too vague or written by people who've never done it. This one's from someone who has — multiple times.",
-    date: "April 4, 2026",
-    readTime: "10 min read",
-    tag: "Starting a Business",
-  },
-  {
-    slug: "llc-vs-sole-proprietor-small-business",
-    title: "LLC vs. Sole Proprietor: Which Is Right for Your Small Business?",
-    description: "Before you launch, you need to pick a structure. Here's an honest breakdown of LLC vs. sole proprietorship — and how to choose without overcomplicating it.",
-    date: "April 4, 2026",
-    readTime: "7 min read",
-    tag: "Starting a Business",
-  },
-  {
-    slug: "hvac-profit-margin",
-    title: "How to Increase Profit Margin for Your HVAC Business",
-    description:
-      "Most HVAC owners are leaving 8–15% margin on the table without knowing it. Here's exactly where to look and what to fix.",
-    date: "March 28, 2026",
-    readTime: "9 min read",
-    tag: "Profit Margin",
-  },
-  {
-    slug: "small-business-operations-consultant",
-    title: "What Does a Small Business Operations Consultant Actually Do?",
-    description:
-      "Not every business needs a $20K consultant. Learn what an operations consultant really does — and how to know if you need one.",
-    date: "March 22, 2026",
-    readTime: "8 min read",
-    tag: "Operations",
-  },
-  {
-    slug: "reduce-overhead-costs-small-business",
-    title: "How to Reduce Overhead Costs for a Small Business (Without Cutting What Matters)",
-    description:
-      "Overhead isn't the enemy — uncontrolled overhead is. A step-by-step guide to finding and eliminating the bloat in your service business.",
-    date: "March 15, 2026",
-    readTime: "10 min read",
-    tag: "Cost Reduction",
-  },
-  {
-    slug: "hvac-business-growth-strategies",
-    title: "HVAC Business Growth Strategies That Actually Move the Needle",
-    description:
-      "Revenue growth feels good. Profitable growth is what actually builds a business. Here are the HVAC growth strategies worth your time.",
-    date: "March 8, 2026",
-    readTime: "9 min read",
-    tag: "Growth",
-  },
-];
-
 export default function BlogPage() {
+  const posts = [...blogPosts].sort(
+    (a, b) => new Date(b.date).getTime() - new Date(a.date).getTime()
+  );
+
   return (
     <>
       {/* HERO */}
