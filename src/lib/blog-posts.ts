@@ -534,4 +534,286 @@ export const blogPosts: BlogPost[] = [
 <p>The best HVAC growth strategies share a common trait: they increase revenue per customer or per job before they increase the number of customers or jobs. Maintenance plans, tiered pricing, referrals, and adjacent services all do this.</p>
 <p>When you're ready to grow volume — more leads, more technicians, more trucks — the operational foundation needs to be solid first. That's what SharpMargin's <a href="/contact">operations audit and implementation services</a> are designed to build.</p>`,
   },
+  {
+    slug: "boise-contractors-losing-margin-boom-market",
+    title: "How Boise Contractors Are Losing Margin in a Boom Market",
+    description:
+      "Boise's growth is real — but the operational chaos behind it is silently eroding contractor margins. Here's what to look for and how to fix it.",
+    date: "April 29, 2026",
+    readTime: "7 min read",
+    tag: "Profit Margin",
+    state: "idaho",
+    faqs: [
+      {
+        q: "Why are contractor margins lower in boom markets like Boise?",
+        a: "In fast-growth markets, revenue scales quickly but operational infrastructure doesn't keep up. Overhead accumulates — more trucks, more software, more staff — without the systems to control it. The result is margin compression even while the calendar stays full.",
+      },
+      {
+        q: "What is a good net profit margin for a Boise contractor?",
+        a: "A healthy contracting business should target 15–22% net margin depending on trade and company size. If your Boise contracting business is pulling in $1M+ in revenue but netting under 12%, there are specific operational issues driving that gap — and they're fixable.",
+      },
+      {
+        q: "How do I find where my contracting business is losing margin?",
+        a: "Start with a full overhead inventory: every recurring cost, every vendor contract, every software subscription. Attach dollar figures to each. Then look at technician utilization rates, callback tracking, and billing accuracy. Most Idaho contractors find $800–$2,400/month in recoverable costs in the first audit.",
+      },
+      {
+        q: "Does SharpMargin work with Idaho contractors and small businesses?",
+        a: "Yes. SharpMargin works with contractors and service businesses across Idaho, including Boise, Meridian, Nampa, Coeur d'Alene, and Twin Falls. The free 48-hour audit is available to any Idaho business in the $500K–$5M revenue range.",
+      },
+    ],
+    content: `<p>Boise has been one of the fastest-growing metros in the country for five years running. If you're a contractor here — HVAC, electrical, plumbing, framing — you've probably never had more work. The backlog stretches months out. New subdivisions keep going up in Meridian and Nampa. The phone doesn't stop.</p>
+<p>And somehow, the margin isn't keeping up. That's not unusual in a boom market — it's actually predictable. When volume surges faster than operations can adapt, profit gets squeezed even as revenue climbs. Idaho contractors are paying that tax right now, most of them without knowing exactly where it's going.</p>
+
+<h2>The Core Problem: Growth Is Masking Operational Bloat</h2>
+<p>In a hot market, revenue growth covers a lot of sins. When your calendar is full three weeks out, it's easy to assume the business is healthy. But margin doesn't care how busy you are — it cares how efficiently you're converting revenue into profit.</p>
+<p>The most common pattern in high-growth markets like Boise: overhead scales with revenue — more trucks, more tools, more software, more admin — but the systems to control that overhead don't. The result is a contracting business doing $1.5M in revenue that should be netting $225K and is actually netting $110K. That gap isn't bad luck. It typically traces back to $900–$2,400/month in identifiable, fixable leaks that nobody has taken the time to look at.</p>
+<p>If you haven't done a full operations audit in the last 12 months, you're carrying overhead you don't know about.</p>
+
+<h2>Why It Happens</h2>
+<p>Boise's growth rate has outpaced most contractors' ability to build operations infrastructure. When you went from 2 trucks to 6 trucks over two years, you hired people and bought equipment — but you probably didn't rebuild your scheduling logic, your billing workflow, or your vendor relationships to match. You were too busy actually doing the work.</p>
+<p>That's not a failure of discipline. It's a structural reality of fast growth. Operations don't scale automatically with revenue. Someone has to actively rebuild them as the business grows, and when every day is full, that never gets prioritized. The irony is that the busier the market, the more margin leaks go unnoticed — and the more expensive they become.</p>
+
+<h2>What to Look For</h2>
+<p>These are the specific places where Idaho contractor margins bleed in a boom market:</p>
+<ul>
+  <li><strong>Technician utilization below 65%.</strong> It feels like everyone is working — but if your techs are averaging less than 5 billable hours per 8-hour shift, you're funding the gap out of margin. Scheduling inefficiency in a busy market is worth $15,000–$30,000 per technician per year in lost revenue.</li>
+  <li><strong>Vendor contracts set up in year one.</strong> If your supplier agreements haven't been renegotiated since you had one truck, you're paying small-account prices on large-account volume. That's a $200–$800/month fix on a single supplier relationship.</li>
+  <li><strong>Software stack that grew organically.</strong> Three scheduling tools, two accounting platforms, a CRM nobody logs into. Idaho contractors averaging $300–$700/month in redundant or unused subscriptions is more common than not.</li>
+  <li><strong>Jobs running over estimate without a tracking process.</strong> When material costs spike and labor runs long, someone needs to catch it before the invoice goes out. If that system doesn't exist, you're absorbing overruns as overhead silently — every single job.</li>
+  <li><strong>No callback tracking.</strong> Return visits to fix problems are being absorbed as overhead instead of billed back to suppliers or customers. Track them across 90 days and you'll typically find $500–$1,500/month in recoverable costs that's been invisible.</li>
+</ul>
+
+<h2>How to Fix It</h2>
+<p>The fix isn't slowing down. It's building the systems that should have scaled with the growth. Start with a complete overhead audit: every recurring cost, every vendor contract, every software subscription reviewed against what it actually produces. Attach dollar figures to everything before you change anything.</p>
+<p>Then prioritize ruthlessly. Renegotiate your highest-volume supplier first — one good conversation can recover $200–$600/month immediately. Consolidate software to a single dispatch and accounting platform. Build a simple tracking system for callbacks and over-estimate jobs. These aren't multi-month projects — they're weeks of focused work that pays back in the first month.</p>
+<p>SharpMargin works specifically with contractors in high-growth Idaho markets — Boise, Meridian, Nampa, Coeur d'Alene — who are generating revenue but not capturing the margin they should be. The work is operational, specific, and built around your numbers, not generic frameworks.</p>
+
+<p>If your Idaho contracting business is busier than ever but margin isn't matching the workload, <a href="/contact">request a free 48-hour audit</a>. The audit identifies every leak with a dollar amount attached — no obligation, no sales pitch in the findings. Most clients act on what they find the same week. Don't let another busy season end with the same questions about where the money went.</p>`,
+  },
+  {
+    slug: "nevada-restaurants-bleed-margin",
+    title: "Why Nevada Restaurants Bleed Margin (And How to Stop It)",
+    description:
+      "Nevada restaurants run some of the thinnest margins in the country. Here's exactly where the money leaks — and what restaurant owners can do about it.",
+    date: "April 29, 2026",
+    readTime: "7 min read",
+    tag: "Profit Margin",
+    state: "nevada",
+    faqs: [
+      {
+        q: "What is a good profit margin for a Nevada restaurant?",
+        a: "Most independent Nevada restaurants net 3–9%. A well-run independent in the $800K–$2M revenue range should target 8–12% net. If you're under 5%, there are specific operational issues — usually food cost, labor scheduling, or vendor pricing — that are recoverable.",
+      },
+      {
+        q: "What kills restaurant margins the most in Nevada?",
+        a: "In Nevada, the biggest margin killers are food cost above 32%, labor scheduling inefficiency driven by unpredictable tourist traffic, vendor contracts that never get renegotiated, and uncomped waste that never gets tracked. Most of these are fixable without raising menu prices.",
+      },
+      {
+        q: "How can a Las Vegas or Reno restaurant reduce overhead without cutting staff?",
+        a: "Start with your vendor contracts — most independent restaurants are paying above-market on produce, proteins, and dry goods because they've never audited the relationship. A single vendor renegotiation typically saves $400–$1,200/month. Software and POS subscription bloat is the second fastest win.",
+      },
+      {
+        q: "Does SharpMargin work with Nevada hospitality businesses?",
+        a: "Yes. SharpMargin works with independent restaurants, cafes, and hospitality operators across Nevada including Las Vegas, Reno, Henderson, and Sparks. The free 48-hour audit is designed for businesses in the $400K–$5M revenue range.",
+      },
+    ],
+    content: `<p>Nevada restaurants operate in one of the most margin-hostile environments in the country. You're competing against casino buffets and hotel restaurants with marketing budgets you can't match. Your customers are tourists with unpredictable patterns. Your staff turnover is higher than the national average. And every vendor in the supply chain knows you need them more than they need you.</p>
+<p>The result: most independent Nevada restaurants are netting 3–6% when they should be netting 8–12%. That gap isn't explained by the industry — it's explained by specific operational leaks that have never been audited. Here's where the money actually goes.</p>
+
+<h2>The Core Problem: Thin Margins Getting Thinner</h2>
+<p>Restaurant margins were already thin before Nevada's cost pressures stacked on top. The state's hospitality economy creates a specific set of challenges that independent operators absorb without realizing how much each one costs.</p>
+<p>Food cost above 32% is common in Nevada restaurants because vendor relationships were set up once and never reviewed. Labor running at 38–42% of revenue is normal when scheduling doesn't account for the Tuesday-to-Saturday variance in tourist traffic. Software subscriptions for POS, reservations, payroll, inventory, and review management layer up to $800–$1,400/month without anyone doing a line-item review.</p>
+<p>Most Nevada restaurant owners know margins are tight. Few know exactly how much each leak is worth — and that's the difference between a problem you feel and a problem you can fix.</p>
+
+<h2>Why It Happens</h2>
+<p>Nevada hospitality operators are running hard. The day-to-day of a restaurant — staffing, prep, service, close — doesn't leave much room for sitting down with a spreadsheet. The result is that operational decisions made in year one (vendor contracts, POS plans, insurance policies, scheduling logic) run on autopilot for years without anyone stopping to ask whether they still make sense.</p>
+<p>This isn't a discipline problem. It's a bandwidth problem. When every shift is a sprint, the audit never happens. And every month the audit doesn't happen is another month the leaks compound.</p>
+
+<h2>What to Look For</h2>
+<p>These are the checkpoints that reveal where Nevada restaurant margins are going:</p>
+<ul>
+  <li><strong>Food cost above 30–32%.</strong> This is the most common and most recoverable margin leak. Pull your food cost percentage for the last 90 days. If it's above 32%, start with your top 5 vendors by spend and ask for current pricing from a competing distributor. The comparison usually finds $300–$900/month in recoverable cost immediately.</li>
+  <li><strong>Labor scheduling not tied to actual cover counts.</strong> If you're staffing Sunday the same as Saturday because that's the template, you're overpaying for labor on slow shifts. Build a 13-week rolling cover count average and schedule against it. This typically recovers $400–$1,200/month in labor on a $1M restaurant.</li>
+  <li><strong>Waste and comps not tracked by line item.</strong> If your POS doesn't produce a weekly void and comp report — or if nobody reviews it — you have no visibility into what's being given away. Most restaurants running 5%+ void rates are losing $600–$2,000/month in untracked margin.</li>
+  <li><strong>Vendor contracts never renegotiated.</strong> If your produce, protein, and dry goods relationships are more than 18 months old without a pricing review, you're paying loyalty pricing to vendors who know you're not shopping. One competitive bid on your top supplier typically saves $400–$1,200/month.</li>
+  <li><strong>POS and software subscription stack not audited.</strong> Count your monthly software costs line by line. Most Nevada independent restaurants are carrying $600–$1,400/month in tools — some redundant, some unused, some priced for a larger operation than yours.</li>
+</ul>
+
+<h2>How to Fix It</h2>
+<p>Start with food cost because it's the fastest-moving lever. Get a competitive bid on your top 3 vendors by spend. You don't have to switch — just knowing what the market rate is gives you negotiating leverage. Most operators who do this call recover $300–$800/month before they change anything else.</p>
+<p>Next, build a labor scheduling template tied to your actual historical cover counts. This requires one afternoon of pulling data from your POS and building a simple staffing matrix. The payback is immediate and ongoing.</p>
+<p>Then audit your software stack. Pull every monthly charge from your bank statement and credit card. Cancel anything with a login frequency under 5 times per month. Consolidate where you can. This is a half-day of work worth $400–$900/month in most Nevada restaurants.</p>
+<p>SharpMargin works with independent Nevada restaurants and hospitality operators on exactly this work — specific, dollar-denominated findings, no generic frameworks. The <a href="/contact">free 48-hour audit</a> is built for operators who are too busy to build the analysis themselves.</p>
+
+<p>If your Nevada restaurant is generating revenue but the margin never feels right, <a href="/contact">start with the free audit</a>. You'll get a written report with every finding and a dollar amount attached to each one. No commitment required — just clarity on where the money is going.</p>`,
+  },
+  {
+    slug: "montana-contractors-costing-800-month",
+    title: "What Montana Contractors Don't Know Is Costing Them $800/Month",
+    description:
+      "Montana contractors built their businesses themselves — and that independence is a strength. But nobody ever audited the overhead. Here's what to look for.",
+    date: "April 29, 2026",
+    readTime: "7 min read",
+    tag: "Cost Reduction",
+    state: "montana",
+    faqs: [
+      {
+        q: "What are the most common overhead leaks for Montana contractors?",
+        a: "For Montana contractors, the most common leaks are vendor contracts that were set up early and never renegotiated, software subscriptions that accumulated without review, insurance policies that haven't been shopped in 2+ years, and unbilled callbacks absorbed as overhead. Most contractors find $600–$1,400/month in recoverable costs in a first audit.",
+      },
+      {
+        q: "How much should a Montana contractor net on a million dollars in revenue?",
+        a: "A healthy contracting business should net 15–22% depending on trade and structure. At $1M revenue, that's $150K–$220K. If you're netting under 12%, there are specific operational issues worth investigating — not vague strategy, but dollar-specific line items.",
+      },
+      {
+        q: "Does a small Montana contractor need an operations consultant?",
+        a: "If you're generating $400K+ in revenue and haven't done a full overhead audit in the last 12 months, a one-time audit almost always pays for itself within 30 days. You don't need ongoing consulting — you need someone to look at the numbers once and tell you what they find.",
+      },
+      {
+        q: "Does SharpMargin work with Bozeman and Billings businesses?",
+        a: "Yes. SharpMargin works with independent contractors and service businesses across Montana including Bozeman, Billings, Missoula, Great Falls, and Helena. The free 48-hour audit is available to any Montana business in the $400K–$5M revenue range.",
+      },
+    ],
+    content: `<p>Montana contractors built what they have themselves. No business school, no consultants, no corporate playbook — just hard work, a truck, and a reputation built job by job. That independence is real, and it's earned.</p>
+<p>But there's one thing it tends to miss: nobody ever audited the overhead. The vendor contracts you set up in year two are probably still running. The software stack you accumulated over five years has never been cleaned out. The insurance policy you bought when you had two employees hasn't been renegotiated since you had six. Most Montana contractors are carrying $800–$1,400/month in costs they've never looked at closely — not because they're careless, but because nobody ever told them to look.</p>
+
+<h2>The Core Problem: Self-Built Businesses Don't Come With a Cost Audit</h2>
+<p>When you build a business yourself, you make hundreds of small operational decisions along the way — what software to use, which supplier to work with, what insurance to carry. Those decisions make sense in the moment. The problem is they tend to stick even after the business has changed around them.</p>
+<p>A supplier relationship set up when you were doing $200K/year should look different when you're doing $800K. A software plan sized for a two-person shop costs more than it should at six. An insurance policy built around a fleet of two vehicles needs to be revisited when you have five. None of this is obvious until someone sits down and looks at it systematically — and for most Montana independent operators, that person has never existed.</p>
+<p>Across a typical independent contractor in the $400K–$1.5M range, unreviewed overhead typically runs $700–$1,600/month above what it should. That's $8,400–$19,200 per year sitting in contracts and subscriptions that haven't been evaluated.</p>
+
+<h2>Why It Happens</h2>
+<p>Independent operators in Montana tend to be deeply competent at the trade and resourceful at running the business day-to-day. What they rarely have time for is the administrative audit work that larger companies assign to a CFO or operations manager. There's no one in the business whose job is to look at the cost structure and ask hard questions about it.</p>
+<p>That's not a character flaw. It's a structural gap that comes with running lean. The answer isn't hiring a full-time operations person — it's getting a thorough audit done once, fixing what's found, and building a simple process to check it quarterly going forward.</p>
+
+<h2>What to Look For</h2>
+<p>These are the most common places where Montana contractors carry unreviewed overhead:</p>
+<ul>
+  <li><strong>Supplier contracts from early days.</strong> If your materials supplier, equipment rental agreement, or fuel card terms were set up more than 18 months ago and haven't been renegotiated, you're likely paying above-market. One renegotiation on your primary supplier typically saves $200–$600/month — a one-hour conversation with immediate payback.</li>
+  <li><strong>Software subscriptions that accumulated.</strong> Pull your bank and credit card statements for the last 90 days and list every software charge. The average independent contractor has 8–14 recurring software costs. It's common to find 2–4 that are redundant or unused — worth $200–$600/month in cuts.</li>
+  <li><strong>Insurance policies not shopped in 2+ years.</strong> General liability, commercial auto, and workers' comp all have market rates that shift. If your policies haven't been competitively bid in 24 months, you're almost certainly overpaying. An independent broker review typically finds $80–$350/month in savings.</li>
+  <li><strong>Unbilled return visits.</strong> When you go back to fix a problem — warranty issue, callback, redo — is that time getting billed back to the customer or supplier, or absorbed into overhead? Even 2–3 untracked callbacks per month represent $300–$900 in invisible overhead.</li>
+  <li><strong>Pricing that hasn't kept up with costs.</strong> If your service rates or project pricing hasn't been updated in 18+ months, you're likely underbilling relative to your actual material and labor costs. A pricing review against current costs often reveals $500–$1,500/month in undercharged revenue.</li>
+</ul>
+
+<h2>How to Fix It</h2>
+<p>Start by building a complete overhead inventory — every recurring cost your business pays, with the amount, what it's for, and when it was last evaluated. This takes 3–4 hours the first time and is almost always eye-opening. Most Montana contractors finish it and immediately identify 2–3 things they didn't realize they were still paying for.</p>
+<p>Then work through the list systematically: renegotiate the highest-spend vendor first, cancel the software nobody uses, call your insurance broker and ask for a competitive review. These aren't complicated tasks — they're just tasks that require someone to sit down and do them.</p>
+<p>SharpMargin does this work directly. The <a href="/contact">free 48-hour audit</a> produces a written report with every finding and a dollar amount attached. No jargon, no frameworks — just a clear picture of what your overhead actually looks like and what's worth fixing first.</p>
+
+<p>If you've built your Montana contracting business from the ground up and haven't done a real overhead audit, <a href="/contact">start here</a>. It costs nothing, takes 48 hours, and most clients recover the audit's value in the first month of changes. The business you built deserves to keep more of what it earns.</p>`,
+  },
+  {
+    slug: "nashville-contractors-busy-not-profitable",
+    title: "Nashville Contractors: Being Busy Doesn't Mean You're Profitable",
+    description:
+      "Nashville's construction boom has Tennessee contractors fully booked — but a full calendar isn't the same as strong margins. Here's what operators miss.",
+    date: "April 29, 2026",
+    readTime: "7 min read",
+    tag: "Profit Margin",
+    state: "tennessee",
+    faqs: [
+      {
+        q: "Why are Nashville contractors profitable on revenue but not on take-home?",
+        a: "The most common culprit is overhead that scaled with revenue but wasn't controlled. More crews, more trucks, more software, more admin — without systems to manage those costs. The gap between what a busy Nashville contractor bills and what hits the bank account is often $1,000–$2,500/month in identifiable overhead waste.",
+      },
+      {
+        q: "What is a good profit margin for a Tennessee contractor?",
+        a: "Depending on trade and company size, healthy Tennessee contracting businesses target 15–22% net margin. If you're doing $1M+ in revenue and netting under 12%, specific operational issues are driving that gap — it's not just market conditions.",
+      },
+      {
+        q: "How do Nashville contractors fix margin problems without slowing down?",
+        a: "The fixes don't require slowing down — they require a few hours of audit work. Vendor renegotiation, software consolidation, billing process tightening, and subcontractor margin review can recover $800–$2,400/month without changing how you operate day to day.",
+      },
+      {
+        q: "Does SharpMargin work with Tennessee contractors and service businesses?",
+        a: "Yes. SharpMargin works with contractors and service businesses across Tennessee including Nashville, Memphis, Knoxville, Chattanooga, and Murfreesboro. The free 48-hour audit is available to any Tennessee business in the $500K–$5M revenue range.",
+      },
+    ],
+    content: `<p>Nashville has been building for years and shows no signs of slowing down. If you're a contractor here — roofing, electrical, plumbing, HVAC, or general construction — you're probably turning down work. The boom is real, and being part of it feels good.</p>
+<p>Here's the part that doesn't feel as good: a lot of Tennessee contractors in the middle of the busiest years of their careers are taking home less per dollar of revenue than they should be. Not because the market is bad — the market is great. Because being fully booked is the best cover a margin problem can have. When the calendar is full, it's easy to assume the business is healthy. Often, it isn't.</p>
+
+<h2>The Core Problem: A Full Schedule Is Not the Same as Strong Margins</h2>
+<p>Tennessee contractors in a boom market face a specific trap: revenue is rising, overhead is rising with it, and nobody has time to audit the gap. Hiring more crews means more payroll, more trucks, more insurance, more equipment — costs that should scale in proportion to revenue but often scale faster.</p>
+<p>The result is a contractor doing $2M in revenue who's netting $160K when the numbers should produce $300K+. That gap is real money — and it almost never comes from one big problem. It comes from a stack of smaller ones that compound quietly: $600/month in redundant software, $800/month in a supplier contract that hasn't been renegotiated, $500/month in unbilled extras absorbed on rushed jobs, $400/month in billing delays that cost cash flow. None of them feel catastrophic on their own. Together they represent $1,000–$2,500/month in preventable losses.</p>
+
+<h2>Why It Happens</h2>
+<p>Nashville's pace doesn't leave room for the administrative work that keeps a business tight. When every day is 10 hours of field work and every evening is estimating the next job, nobody sits down to audit the overhead. The vendor contract from three years ago keeps running. The software platform the last office manager set up keeps charging. The billing process stays clunky because changing it requires an afternoon nobody has.</p>
+<p>This isn't a failure of the business owner — it's what fully booked looks like. The problem is that the longer this runs, the more the leaks compound. A bad month in the slow season, a large job that ran over, a sudden insurance premium increase — any of these can make margin problems that were invisible suddenly very visible.</p>
+
+<h2>What to Look For</h2>
+<p>These are the checkpoints worth running on any Tennessee contracting business doing $500K or more:</p>
+<ul>
+  <li><strong>Extras and change orders not captured on invoices.</strong> In a fast-moving job, extras get done and never billed because the invoice went out before the scope was fully documented. Pull your last 20 completed jobs and check whether every change order made it onto the final invoice. Most contractors find $300–$800 per job in unbilled extras absorbed on rushed closings.</li>
+  <li><strong>Subcontractor margins not tracked.</strong> If you're using subs and not marking up their costs consistently, you're potentially passing their work through at cost or below. Every subcontractor line item should carry a defined markup. If it doesn't, margin is leaking on every job that uses one.</li>
+  <li><strong>Billing-to-collection cycle longer than 21 days.</strong> If you're waiting 30–45 days after job completion to invoice — because you're too busy — you're financing your customers' projects. Tightening the billing cycle to within 5 days of job close typically frees up $10,000–$30,000 in working capital at $1M revenue.</li>
+  <li><strong>Vendor pricing not reviewed in 18+ months.</strong> Nashville's boom benefits your suppliers too — material prices have moved. If you haven't gotten a competitive bid from an alternative supplier in the last 18 months, you're likely overpaying. One renegotiation typically saves $300–$900/month.</li>
+  <li><strong>Software costs not audited since last hire.</strong> Every new employee tends to add a tool. Payroll software, scheduling apps, estimating platforms — pull every recurring software charge and check whether each one is actively used and competitively priced. Most Tennessee contractors find $300–$700/month in cuts on the first review.</li>
+</ul>
+
+<h2>How to Fix It</h2>
+<p>The fix starts with a clear picture of what the overhead actually looks like — not a rough sense of it, but a line-by-line inventory with dollar amounts. That's the audit. Once you have the numbers, prioritize by dollar impact: highest-spend vendor first, biggest software bloat second, billing process tightening third.</p>
+<p>None of these require slowing down the field work. They require a few hours of focused administrative time — the kind that's hard to find when you're running hard but pays back immediately and permanently.</p>
+<p>SharpMargin works with Tennessee contractors and service businesses who are generating revenue but not capturing the margin they should. The <a href="/contact">free 48-hour audit</a> produces a written report with specific dollar amounts for every finding. No fluff, no vague recommendations — just numbers and what to do with them.</p>
+
+<p>If you're fully booked in Nashville but margin isn't matching the workload, <a href="/contact">request the free audit</a>. It takes 48 hours, costs nothing, and gives you a clear picture of where the money is going. Most clients identify more in the first audit than the engagement costs. Don't wait for a slow quarter to find out where the gaps are.</p>`,
+  },
+  {
+    slug: "tulsa-contractors-operations-help",
+    title: "Tulsa Contractors: The Operations Help You Never Had Access To",
+    description:
+      "Big consulting firms don't work with Tulsa contractors. SharpMargin does — straight-talking operations help built for Oklahoma small businesses.",
+    date: "April 29, 2026",
+    readTime: "7 min read",
+    tag: "Operations",
+    state: "oklahoma",
+    faqs: [
+      {
+        q: "Why haven't Oklahoma contractors had access to operations consulting before?",
+        a: "Most operations and management consulting firms are built around Fortune 500 clients. Their pricing ($20K–$100K+ engagements) and processes are designed for large enterprises. Tulsa and OKC contractors generating $400K–$5M have been doing without — not because the help isn't valuable, but because nobody built it for their scale.",
+      },
+      {
+        q: "What operations problems are most common for Tulsa contractors?",
+        a: "The most common issues are vendor pricing that's never been renegotiated, billing processes that leave money on the table, software costs that have never been audited, and scheduling inefficiency that looks like busyness but costs margin. Most Tulsa contractors find $600–$1,800/month in recoverable costs on a first audit.",
+      },
+      {
+        q: "How much does an operations audit cost for an Oklahoma small business?",
+        a: "SharpMargin's initial audit is free and takes 48 hours. It produces a written report with every finding and a specific dollar amount for each. Implementation support starts at $800 one-time or $400–$600/month for ongoing monitoring. The audit pays for itself before any commitment is required.",
+      },
+      {
+        q: "Does SharpMargin work with OKC and Broken Arrow businesses?",
+        a: "Yes. SharpMargin works with contractors and service businesses across Oklahoma including Tulsa, Oklahoma City, Norman, Broken Arrow, and Edmond. Any Oklahoma business in the $400K–$5M revenue range qualifies for the free 48-hour audit.",
+      },
+    ],
+    content: `<p>The big consulting firms don't come to Tulsa. Not for a contractor doing $800K in revenue. Not for an HVAC company in Broken Arrow or a plumbing outfit in Edmond. Their model requires clients with seven-figure consulting budgets and a C-suite to sell into. Oklahoma small businesses have been doing without.</p>
+<p>That doesn't mean you don't have the same operational problems every business has. Vendor contracts that haven't been reviewed in years. Software costs nobody's audited. Billing processes that leave money on the table. Scheduling inefficiency that's invisible because everybody's busy. These aren't big-company problems — they're every-business problems. And they're fixable if someone looks at them with the right tools.</p>
+
+<h2>The Core Problem: Nobody Built Operations Help for Your Scale</h2>
+<p>Oklahoma contractors in the $400K–$3M range are in a gap. Too big to wing it without some operational discipline, too small to afford a full-time operations manager or a traditional consulting engagement. The result is that most run their business the way they built it — intuitively, efficiently in the field, but with administrative and cost infrastructure that's never been properly optimized.</p>
+<p>That gap has a dollar amount. For most Tulsa-area contractors, it runs $600–$1,800/month in identifiable overhead waste: vendor contracts priced for a smaller operation, software nobody actually uses, insurance policies that haven't been shopped, billing delays that cost cash flow. None of it is catastrophic on its own. Together it adds up to $7,200–$21,600 per year leaving the business that shouldn't be.</p>
+<p>And unlike revenue growth — which requires customers, marketing, and time — reducing overhead waste is immediate. Fix the leak this month, keep that money every month after.</p>
+
+<h2>Why It Happens</h2>
+<p>Oklahoma small business owners are resourceful by necessity. You figured out the trade, figured out the customers, figured out the payroll, figured out the taxes — all without anyone handing you a manual. That self-sufficiency is a genuine strength.</p>
+<p>What it doesn't naturally produce is a culture of auditing your own cost structure. When you're the owner, the estimator, the project manager, and sometimes the technician, the administrative overhead review is always the last thing on the list. And since nothing feels broken — the business is paying its bills, the team is working, customers are calling back — there's no fire to fight.</p>
+<p>The problem isn't that anything is broken. It's that there's money being left behind quietly, month after month, because nobody's job is to find it.</p>
+
+<h2>What to Look For</h2>
+<p>These are the operations checkpoints worth running on any Oklahoma contracting business doing $400K or more per year:</p>
+<ul>
+  <li><strong>Vendor pricing not renegotiated in 18+ months.</strong> If your materials supplier, equipment source, or subcontractor rates were set more than 18 months ago and you haven't gotten a competitive bid since, you're likely paying above-market. One renegotiation on your primary vendor typically saves $200–$700/month — a one-hour conversation with immediate payback.</li>
+  <li><strong>Software costs not audited since you added them.</strong> Pull every recurring software charge from your bank and credit card statements. List them out with what each one does and who uses it. Most Oklahoma contractors find 2–4 tools they're paying for that are redundant, unused, or could be replaced with a cheaper option. Average savings: $200–$600/month.</li>
+  <li><strong>Billing going out more than 5 days after job completion.</strong> Every day between completing a job and sending the invoice is a day you're not getting paid. If billing typically goes out a week or two after the work is done, you're consistently financing your customers. Tightening this process to within 5 days of job close recovers cash flow immediately and reduces late payment rates.</li>
+  <li><strong>No tracking on callbacks and return visits.</strong> When something goes wrong and you go back to fix it, is that time and cost tracked? Is it being billed back to the customer, the manufacturer, or a subcontractor — or is it just absorbed? Even 2–3 untracked callbacks per month represent $300–$900 in invisible overhead.</li>
+  <li><strong>Insurance policies not competitively reviewed in 2+ years.</strong> General liability, commercial auto, and workers' comp rates shift with the market. If your current carrier hasn't been challenged with a competitive bid in 24 months, you're probably overpaying. An independent broker review takes one call and typically finds $80–$300/month in savings.</li>
+</ul>
+
+<h2>How to Fix It</h2>
+<p>Start with the overhead inventory: every recurring cost, every vendor contract, every subscription. Write them down with dollar amounts. This is the audit nobody does but everyone should — and it takes one focused afternoon. What you find will tell you where to start.</p>
+<p>Work through the list in order of dollar impact. Renegotiate the highest-spend vendor first. Cancel the software nobody logs into. Call your insurance broker. Tighten the billing process. These aren't complicated — they're just tasks that require someone to sit down and do the work instead of pushing it to next week.</p>
+<p>That's exactly what SharpMargin does. The <a href="/contact">free 48-hour audit</a> is built for Oklahoma contractors and service businesses who have never had a second set of eyes on their cost structure. You get a written report with specific dollar amounts for every finding. No jargon, no 40-page deck, no commitment required — just a clear picture of what your operations actually look like and what's worth fixing first.</p>
+
+<p>Tulsa and OKC contractors have been doing without this kind of help for too long. <a href="/contact">Request the free audit here</a> — it takes 48 hours, costs nothing, and most clients recover the value of the engagement before they've committed to anything. Oklahoma businesses work too hard to leave this money behind.</p>`,
+  },
 ];
+
