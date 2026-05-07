@@ -1921,5 +1921,330 @@ export const blogPosts: BlogPost[] = [
       },
     ],
   },
+  {
+    slug: "idaho-tighten-operations-before-expanding",
+    title: "How to Tighten Your Operations Before Expanding in Idaho",
+    description: "Don't scale a broken operation. Here's what to fix first if you want to grow profitably in Idaho.",
+    date: "May 7, 2026",
+    readTime: "8 min read",
+    tag: "Operations",
+    state: "idaho",
+    content: `<p>Idaho contractors and service businesses in Boise, Meridian, and Nampa all face the same growth temptation: the market is strong, the calendar is filling up, and the first instinct is to hire more people and add more trucks. Growth feels like progress. But growth without operational discipline is just controlled chaos — and the larger the operation gets, the more expensive that chaos becomes.</p>
+<p>Before you expand, fix the operation you have. Here's what that looks like.</p>
+
+<h2>The Expansion Trap: Scaling a Broken System</h2>
+<p>The most common mistake Idaho contractors make is scaling without tightening. You hire a third technician when your first two are at 62% utilization. You add a fourth truck when your current fleet is running 70% loaded. You bring on an office manager before you've documented the workflows the office should be running.</p>
+<p>The result: overhead grows faster than revenue. Margins compress even as the calendar fills. The business gets bigger but doesn't get better — or more profitable.</p>
+<p>Healthy growth works the opposite way: you run the current operation as lean as possible, then expand into that capacity. A three-person team at 80% utilization generates more profit than a four-person team at 65% utilization. Every time.</p>
+
+<h2>The Operational Foundation Worth Building Before Growth</h2>
+<p>These are the five systems worth getting right before you expand in Idaho:</p>
+
+<h3>1. Utilization Tracking and Scheduling Discipline</h3>
+<p>If you don't measure utilization, you'll expand too early and too much. Pull the last 90 days of billing data and calculate the actual billable hours your team completed divided by available hours. The number you get is your current utilization rate. Healthy is 72–78%. Below 65% means you have capacity before you should hire. Above 80% means you're stretching thin and customer wait times are climbing.</p>
+<p>Before adding headcount, push current utilization to 75%. Usually that's a scheduling and quoting process fix, not a capacity problem.</p>
+
+<h3>2. Documented Core Workflows</h3>
+<p>Every job in your business probably goes through the same basic steps: lead intake, quote, scheduling, execution, invoicing. But if those steps aren't documented, every team member does them slightly differently. New hires never quite catch up. Inconsistency costs money.</p>
+<p>Document your three core workflows: how a lead becomes a quote, how a quote becomes a job, and how a job becomes a paid invoice. One page per workflow. Post them where everyone works. Before you scale, make sure every person on your current team can execute these consistently.</p>
+
+<h3>3. Overhead Control</h3>
+<p>Expanding with uncontrolled overhead is like building a house on a cracked foundation. Before you hire, audit your current overhead: every software subscription, every vendor contract, every insurance policy, every facility cost. Identify the $500–$1,500/month in waste that's probably hiding there, fix it, and commit to quarterly reviews going forward.</p>
+<p>Growing with tight overhead is fundamentally different from growing with bloat. One is profitable. The other is just volume.</p>
+
+<h3>4. Accurate Pricing and Job Tracking</h3>
+<p>Before you expand, you need to know whether your current pricing is covering your actual costs. Pull your last 20 completed jobs and calculate true cost by job: materials, labor, overhead allocation, all of it. Compare against revenue. Are you hitting your target margin consistently? If not, why? Expand without fixing this and you'll just do unprofitable work at higher volume.</p>
+
+<h3>5. Cash Flow and Accounts Receivable Management</h3>
+<p>Growing businesses consume cash before they produce it — more inventory, more payroll, more everything before revenue catches up. Before you expand, make sure your current cash flow is tight: invoices go out same-day, payment terms are clear, late payments get followed up. Expansion that's cash-flow negative will destroy you before growth can save you.</p>
+
+<h2>The Pre-Expansion Checklist</h2>
+<p>Don't hire the next person until you can answer yes to all of these:</p>
+<ul>
+  <li>Is current team utilization above 72%?</li>
+  <li>Are core workflows documented and executed consistently?</li>
+  <li>Have I audited and cut unnecessary overhead in the last 60 days?</li>
+  <li>Am I hitting my target margin on 90%+ of jobs?</li>
+  <li>Is my cash flow positive even in slow weeks?</li>
+  <li>Do I have management infrastructure to handle the next team size?</li>
+</ul>
+<p>If you answered no to any of these, growth will be expensive. Fix it first.</p>
+
+<h2>The Expansion That Works</h2>
+<p>Idaho contractors who scale profitably start with operational discipline, then expand into that. They measure utilization before hiring. They document workflows before delegating. They control overhead before adding cost. They know their margins before adding volume.</p>
+<p>That discipline looks like it slows growth down. It doesn't — it just makes the growth profitable. And profitable growth is the only kind worth having.</p>
+<p>If you're an Idaho contractor thinking about expansion and want an honest assessment of whether your operation is ready, <a href="/contact">request a free operations audit from SharpMargin</a>. We'll tell you exactly what's ready to scale and what needs tightening first.</p>`,
+    faqs: [
+      {
+        q: "What utilization rate means I'm ready to hire?",
+        a: "72–75% is the sweet spot. Below 65% means you have excess capacity. Above 78% means you're pushing hard and customer service is likely suffering. Hire when current team is at 72–74% and growing, not when the calendar is full."
+      },
+      {
+        q: "How long should it take to document workflows?",
+        a: "Three core workflows, one page each, in about 6–8 hours total. Not a major project. Most Idaho contractors finish this in one focused day. The payback is immediate — new hires ramp 40–50% faster."
+      },
+      {
+        q: "Should I hire before or after fixing overhead?",
+        a: "Always after. Hire into a clean operation. Every dollar of unnecessary overhead you're carrying before the hire will compound as you scale. Fix overhead first, then expand into that saved capacity."
+      },
+      {
+        q: "How do I calculate true cost per job?",
+        a: "Pull time tracking and material costs per job, add a proportional share of overhead (labor hours worked ÷ total monthly hours × total monthly overhead), then compare against revenue. The difference is your job margin."
+      }
+    ]
+  },
+  {
+    slug: "nevada-hospitality-recover-monthly-margin",
+    title: "How Nevada Hospitality Businesses Can Recover $1,000+/Month",
+    description: "Nevada restaurants and hospitality operators are sitting on hidden margin recovery. Here's the exact roadmap to find it.",
+    date: "May 7, 2026",
+    readTime: "8 min read",
+    tag: "Profit Margin",
+    state: "nevada",
+    content: `<p>Nevada hospitality margins are thin by design — the market is competitive, customers are price-sensitive, and operators are used to working with single-digit net profit percentages. But "thin by design" doesn't mean "as thin as possible." Most Nevada restaurants and hospitality businesses are carrying $1,200–$2,400/month in recoverable margin without knowing it's there.</p>
+<p>Here's exactly where to look for it and how to capture it.</p>
+
+<h2>The Five-Point Margin Recovery Map</h2>
+
+<h3>Point 1: Food Cost Engineering ($300–$700/month)</h3>
+<p>Food cost is your single biggest lever for rapid margin recovery. Start with this analysis: pull your last 90 days of food costs and identify your top 20 items by spend. For each item, answer two questions: (1) Are we portion-consistent on this item? (2) Have we priced this item against current market cost?</p>
+<p>Most Nevada restaurants find that 3–5 high-spend items are being portion-inconsistent (actual portions running 10–15% heavy), and 4–6 items are still priced against old supplier invoices. Fixing just these 8–11 items typically recovers $300–$700/month.</p>
+<p>Action: Pick your top 5 food cost items by revenue impact. Get a current market quote on each. Audit portion consistency for one week. Adjust both. Measure the impact.</p>
+
+<h3>Point 2: Labor Scheduling Optimization ($400–$900/month)</h3>
+<p>Nevada hospitality has unpredictable traffic patterns — tourist flow varies by season, day of week, weather, events. Most operators schedule by habit or intuition instead of by data. The result is overstaffing on slow shifts.</p>
+<p>Pull your POS data for 13 weeks by day and daypart. Build a staffing model around actual covers, not expected covers. Schedule FOH and BOH against that model. This alone typically reduces unnecessary labor by 8–12% on slow shifts without cutting service quality.</p>
+<p>On a $600K annual food and beverage cost (roughly 35% of $1.7M revenue), 8–12% labor reduction is $400–$900/month.</p>
+
+<h3>Point 3: Vendor Renegotiation ($250–$600/month)</h3>
+<p>Most Nevada hospitality businesses work with the same suppliers they started with. Suppliers count on loyalty and complacency. A single competitive bid — even if you don't switch — usually produces a 4–8% price reduction on most categories.</p>
+<p>Pick your three largest supplier categories by annual spend. Get a competitive quote from an alternative supplier. Share that quote with your current supplier. Most will match or beat it. On $400K in annual supplier spend, 4–8% is $250–$600/month.</p>
+
+<h3>Point 4: Waste and Comp Tracking ($200–$450/month)</h3>
+<p>If your POS doesn't produce a weekly void and comp report by reason code — or if nobody reviews it — you're operating blind. Most Nevada hospitality businesses running 4–6% void and comp rates are losing $200–$450/month to comps that reflect service recovery and waste that reflects process failure.</p>
+<p>Implement weekly void and comp review with a target rate of 2–3%. Hold staff accountable to the target. Track trending. Most operations hit target within 60 days just from awareness.</p>
+
+<h3>Point 5: Software and Tech Stack Consolidation ($200–$400/month)</h3>
+<p>Count every monthly software and tech charge: POS system, online ordering, reservation platform, payroll, accounting, delivery integrations, loyalty program, inventory management. Most Nevada hospitality businesses paying for 8–12 tools find 2–4 that overlap or could be replaced.</p>
+<p>Consolidate where you can. Cut what's unused. Average savings: $200–$400/month.</p>
+
+<h2>The Implementation Roadmap</h2>
+<p><strong>Week 1:</strong> Pick the five highest-impact areas from above. Assign each to a staff owner. Gather baseline data.</p>
+<p><strong>Weeks 2–4:</strong> Execute on top three initiatives. Food cost auditing, labor scheduling model, vendor renegotiation. These are fastest-moving.</p>
+<p><strong>Weeks 4–8:</strong> Implement tracking and accountability systems for comps, waste, and utilization.</p>
+<p><strong>Ongoing:</strong> Monthly margin reporting against baseline. Track which initiatives are delivering the recovery you projected.</p>
+
+<h2>The Real Number</h2>
+<p>A Nevada hospitality business executing all five points conservatively recovers $1,200–$2,400/month. At 35–40% cost of goods sold, that's $36,000–$72,000 in annual margin improvement. For most operators, that's a 30–50% increase in annual net profit.</p>
+<p>This isn't about cutting quality or raising prices indiscriminately. It's about operational discipline on margin that's already being generated but not captured.</p>
+<p>If you want an analysis of which five points would hit hardest for your Nevada hospitality business specifically, <a href="/contact">request a free operations audit from SharpMargin</a>. Most Nevada restaurant and hospitality clients identify $1,200–$3,500/month in margin recovery on the first audit.</p>`,
+    faqs: [
+      {
+        q: "How much food cost reduction is realistic without cutting quality?",
+        a: "3–5% through portion consistency and supplier optimization. Beyond that you're into ingredient substitution or smaller portions — quality cuts. Stay in the 3–5% range and you improve margin without changing customer perception."
+      },
+      {
+        q: "Can I implement labor optimization without cutting staff?",
+        a: "Yes. Most Nevada operations overstaff on slow shifts without anyone realizing it. Moving hours from slow shifts to busy shifts and keeping total headcount stable improves labor productivity without headcount reductions."
+      },
+      {
+        q: "How often should I renegotiate with suppliers?",
+        a: "Quarterly competitive quotes on top 3 categories. Annual detailed renegotiation on all suppliers. Supplier pricing rises 3–4% annually — if you're not checking it quarterly, you're absorbing that increase."
+      },
+      {
+        q: "What's a realistic void and comp rate for a Nevada restaurant?",
+        a: "2–3% of revenue. Above that usually reflects either generous comping or significant waste. Nevada restaurants at 4–5% can usually find process or training improvements to tighten it."
+      }
+    ]
+  },
+  {
+    slug: "montana-trades-margin-leaking-out-back",
+    title: "Running a Montana Trade Business? Here's What's Leaking Out the Back",
+    description: "Montana trade businesses are built lean. But lean doesn't mean efficient. Here's where to look for the hidden leaks.",
+    date: "May 7, 2026",
+    readTime: "8 min read",
+    tag: "Cost Reduction",
+    state: "montana",
+    content: `<p>Montana trade businesses — plumbing, electrical, HVAC, carpentry, heating repair — are built on competence and reputation. You do good work. You get paid. You reinvest. You grow. It's straightforward.</p>
+<p>But straightforward doesn't mean you're not leaving money behind. In fact, Montana trades businesses are often the worst at catching the quiet leaks because the day-to-day is so focused on executing the work that nobody sits down to audit where the money's going.</p>
+<p>Here's what that audit usually finds.</p>
+
+<h2>The Leak Categories</h2>
+
+<h3>Leak 1: Unbilled or Under-Billed Service Calls ($300–$800/month)</h3>
+<p>In a busy Montana trades business, callbacks and return visits are common — warranty issues, customer call-backs for adjustments, redos on jobs that ran over. But are those visits getting tracked and billed appropriately? Most aren't. They get absorbed as overhead.</p>
+<p>Track every return visit for 90 days: the customer, the reason, the hours, the materials used. Then categorize each: (1) Warranty issue — bill the manufacturer, (2) Our error — swallow it but document why, (3) Customer request — bill the customer. You'll probably find that 40–50% of callbacks should be generating revenue but aren't.</p>
+
+<h3>Leak 2: Pricing That Hasn't Matched Cost Inflation ($400–$1,200/month)</h3>
+<p>Montana's cost of living has climbed significantly in the last three years. Your labor costs are up. Materials are up. Vehicle fuel and maintenance are up. But if your service pricing hasn't moved proportionally, you're taking lower margin on every job you do.</p>
+<p>Pull your pricing from two years ago and your pricing today. Calculate what percentage increase you've taken. Then compare against your actual cost increases on labor, materials, and overhead. Most Montana trades businesses find they're 8–15% under-priced relative to current costs.</p>
+
+<h3>Leak 3: Inventory and Materials Waste ($250–$600/month)</h3>
+<p>Field service businesses accumulate materials: inventory on the truck, inventory in the shop, inventory ordered but not yet used. Without systematic tracking, waste compounds silently. Materials ordered that don't get used on the job. Small parts left on job sites. Stock that goes bad before it's needed.</p>
+<p>Implement a job-costing system where every material used is logged against the job. Run monthly inventory reconciliation. Identify patterns in waste. Most trades businesses find 5–12% of materials spend is waste when they actually track it.</p>
+
+<h3>Leak 4: Technician Utilization Below Potential ($400–$900/month)</h3>
+<p>Montana trades with variable demand often run 60–65% utilization when 75–80% is achievable with better scheduling and routing. Every hour a technician isn't billing is margin lost forever. On a $65/hour billable rate, the gap between 65% and 75% utilization is $2,600–$3,900 in annual lost revenue per technician.</p>
+<p>Audit your current utilization: actual billable hours worked ÷ available hours. If you're below 70%, focus on scheduling and routing optimization. If you're above 75%, you're probably pushing hard and should think about hiring before utilization gets worse.</p>
+
+<h3>Leak 5: Vendor Contracts Never Renegotiated ($200–$500/month)</h3>
+<p>Montana materials suppliers and subcontractor relationships often get set up early and run on autopilot. Prices creep up 3–4% annually with inflation. But if you haven't renegotiated in 18+ months, you're paying compound inflation on a supplier that knows you're not shopping around.</p>
+<p>Get competitive quotes on your top 3 supplier categories. Your current suppliers will usually match or beat. The squeezes: 5–10% on most categories. On $50K in annual supplier spend, that's $2,500–$5,000.</p>
+
+<h2>The Audit Workflow</h2>
+<p>You don't need to fix all five leaks at once. Work through them in order of dollar impact:</p>
+<ul>
+  <li><strong>Week 1:</strong> Track callbacks and unbilled work for one week. Calculate annualized impact. This one usually moves fast.</li>
+  <li><strong>Week 2:</strong> Review your current pricing against two-year-old pricing and against actual labor + material + overhead costs. Identify under-priced service categories.</li>
+  <li><strong>Week 3:</strong> Get competitive quotes on top 3 supplier categories. Share with current suppliers. Document results.</li>
+  <li><strong>Weeks 4–6:</strong> Implement job costing and inventory tracking for new work. Track waste patterns.</li>
+  <li><strong>Ongoing:</strong> Monthly utilization reporting. Monthly callback tracking. Quarterly vendor pricing review.</li>
+</ul>
+
+<h2>The Real Impact</h2>
+<p>A Montana trades business executing all five leak fixes typically recovers $1,200–$3,000/month in margin. For a $1M business at 15% net margin, that's $15K–$36K in additional annual profit. For one at 10% margin, it's the difference between feeling stuck and having real growth.</p>
+<p>This isn't about working harder. It's about not leaving the money you already earn sitting on the table.</p>
+<p>If you're a Montana trades business owner and want to know which leaks are costing you the most, <a href="/contact">request a free operations audit from SharpMargin</a>. We'll track where the money's actually going and tell you what's worth fixing first.</p>`,
+    faqs: [
+      {
+        q: "What percentage of callbacks should I bill?",
+        a: "Depends on your warranty policy. Typical split: 40–50% are billable to customer or manufacturer, 30–40% are warranty costs you cover, 10–20% are adjustment calls that warrant goodwill. Anything under-tracked is money left on the table."
+      },
+      {
+        q: "How much should I increase pricing if my costs are up 10–15%?",
+        a: "Match your cost increases dollar-for-dollar on new jobs. For existing customers, phase increases in over 60–90 days. Most won't notice a 3–5% annual increase if it's packaged right and your work quality is consistent."
+      },
+      {
+        q: "Should I cut or reduce inventory to reduce waste?",
+        a: "No. Cutting inventory to the point where you're constantly running out of materials kills efficiency. Instead, implement job costing so every material is tracked to the job it was used on. That discipline alone reduces waste 40–50%."
+      },
+      {
+        q: "What's realistic utilization for a Montana trades business?",
+        a: "70–76% is healthy for field service with variable demand. Below 65% means you have excess capacity and should optimize scheduling before hiring. Above 80% means you're stretched thin and should consider adding capacity."
+      }
+    ]
+  },
+  {
+    slug: "tennessee-trades-fully-booked-missing",
+    title: "What Tennessee Trades Operators Miss When They're Fully Booked",
+    description: "Being busy is not the same as being profitable. Tennessee trades operators at full capacity often leave the most money on the table.",
+    date: "May 7, 2026",
+    readTime: "7 min read",
+    tag: "Profit Margin",
+    state: "tennessee",
+    content: `<p>Tennessee's building boom has roofing, electrical, plumbing, and HVAC companies running at full capacity. The phones are ringing. The calendar is full months out. Teams are working hard. But here's what gets missed in a fully booked environment: the operational and pricing adjustments that would turn higher volume into higher profit.</p>
+<p>Being fully booked is the worst possible time to ignore margin — and the best time to fix it.</p>
+
+<h2>What Full Capacity Hides</h2>
+
+<h3>Margin Leak 1: Untracked Extras and Change Orders ($400–$1,200/month)</h3>
+<p>In a fully booked environment, jobs move fast. Extras get approved verbally. Change orders get done before the paperwork gets done. And invoices go out before all the extras are documented. Result: revenue that was earned but never captured.</p>
+<p>Track every job for one month and categorize each item of cost: original bid scope, approved change orders, incidental materials. Then check the invoice. Most Tennessee operators find 5–15% of actual job cost never made it to the invoice because the paperwork didn't keep up with the work.</p>
+
+<h3>Margin Leak 2: Subcontractor Markups Not Consistent ($300–$800/month)</h3>
+<p>When you're fully booked and using subs regularly, markup consistency falls apart. One job might be bidding subs at +20%, another at +15%, another absorbing them at cost because you didn't document what markup to apply. Over a month of heavy sub usage, that inconsistency runs $300–$800 in lost margin.</p>
+<p>Document your standard markups by sub category (concrete, framing, electrical, plumbing, etc.). Every estimate should use those markups. Every invoice should reflect them. No exceptions for rush jobs or relationship subs.</p>
+
+<h3>Margin Leak 3: Pricing Frozen While Costs Climbed ($500–$1,500/month)</h3>
+<p>When you're busy, the temptation is to keep pricing flat and just book more work at the existing rates. Tennessee contractors often spend 12–18 months in a fully booked state without raising prices, telling themselves "we'll adjust when we slow down." But costs don't wait for slower season. Materials, labor, and overhead all increased.</p>
+<p>Calculate what percentage cost increase you've absorbed since your last price adjustment. Most Tennessee trades operators find they're 8–12% under-priced relative to current costs. The gap accumulates monthly.</p>
+
+<h3>Margin Leak 4: Billing Delays That Cost Cash ($400–$1,000/month)</h3>
+<p>Fast-moving jobs tempt you to invoice later. The work gets done, the invoice doesn't go out for three days or a week, payment comes in 30 days later, and you're constantly funding your customers' projects. On $100K in monthly revenue, a 10-day billing delay costs you roughly $3,300 in permanent working capital.</p>
+<p>Commit to same-day or next-day invoicing. Use a mobile invoicing system if it keeps you from delaying on the road. Tighten the billing cycle by 5 days and you free up $15,000–$20,000 in working capital that can fund growth without financing costs.</p>
+
+<h3>Margin Leak 5: Materials and Waste Not Tracked to Jobs ($300–$700/month)</h3>
+<p>Fully booked operations generate a lot of job activity. Materials get issued from inventory, used on jobs, sometimes more than estimated. Without per-job tracking, waste compounds invisibly. A job planned for $400 in materials that actually consumed $480 looks like cost overrun instead of waste that should never happen again.</p>
+<p>Implement per-job material tracking. End of every job: actual materials used vs. estimated. Run a monthly report. Identify waste patterns. Address them with the crew. Most operators find 8–15% material efficiency improvement within 60 days just from awareness.</p>
+
+<h2>The Fully Booked Advantage</h2>
+<p>Fully booked doesn't mean you can't improve margin — it means you should, urgently. Every dollar of margin improvement on a fully booked operation compounds across all the work you're already doing. A 2-point margin improvement on $2M in annual revenue is $40,000. That happens at zero growth — just operational tightness.</p>
+<p>Fix these five leaks while you're fully booked and your team knows you're serious about execution discipline. The habits stick. When you do slow down, you keep the margin improvements and the workload drops. That's how you get wealthy in a boom market.</p>
+<p>If you're a Tennessee trades operator at full capacity and want to know exactly where the margin leaks are, <a href="/contact">request a free operations audit from SharpMargin</a>. Most fully booked contractors identify $1,000–$2,500/month in margin recovery — from the work they're already doing.</p>`,
+    faqs: [
+      {
+        q: "How do I track extras without slowing down the job?",
+        a: "Use a simple daily log: date, job, description of extra, estimated cost, actual cost if known. 2 minutes per job. At the end of the week, compare extras against what made it to the invoice. The gap is your tracking leak."
+      },
+      {
+        q: "What markup should I use for subcontractors?",
+        a: "Typical range: 15–25% depending on the trade and your management overhead. Document it. Every estimate should use the same markup for the same sub category. Consistency compounds to significant margin over time."
+      },
+      {
+        q: "How often should fully booked contractors raise prices?",
+        a: "At least annually, in line with your actual cost increases. If labor is up 8%, materials up 6%, and overhead up 4%, your pricing should move up proportionally. Don't absorb your cost inflation silently."
+      },
+      {
+        q: "Is same-day invoicing realistic for field work?",
+        a: "Mobile invoicing apps make it realistic. Invoice from the job site same day or next morning before the day gets away. The 5–10 day working capital improvement makes it worth the systems change."
+      }
+    ]
+  },
+  {
+    slug: "oklahoma-trades-exactly-margin-going",
+    title: "Oklahoma Trades Businesses: Here's Exactly Where Your Margin Is Going",
+    description: "Oklahoma contractors work hard and deserve to keep more of what they earn. Here's the audit to find out where the money actually goes.",
+    date: "May 7, 2026",
+    readTime: "8 min read",
+    tag: "Cost Reduction",
+    state: "oklahoma",
+    content: `<p>Oklahoma trades operators — plumbers, electricians, HVAC, roofing, general contractors in Tulsa, OKC, Norman — build real businesses. Good reputations, loyal customers, solid revenue. But when you sit down and look at the bottom line, the take-home never quite matches the hours and the hard work.</p>
+<p>That gap has a specific cause. This audit finds it.</p>
+
+<h2>The Five-Point Margin Audit for Oklahoma Trades</h2>
+
+<h3>Audit Point 1: Job Profitability Tracking ($300–$1,000/month recovery)</h3>
+<p>Do you know which types of jobs are actually profitable? Most Oklahoma trades operators bid and execute on intuition and experience, but don't run actual numbers on job profitability. The result: you're probably underpricing some job categories and overpaying others without realizing it.</p>
+<p>Pull your last 20 completed jobs. For each, calculate: actual labor hours + actual materials cost + overhead allocation (total monthly overhead ÷ total monthly hours × hours on that job). Compare against revenue. What percentage margin did you actually achieve on each job type?</p>
+<p>Most Oklahoma operators find that 30–40% of their job categories are under-priced by 5–15%. Fix those job types and margin climbs immediately.</p>
+
+<h3>Audit Point 2: Callback and Warranty Work Tracking ($250–$700/month recovery)</h3>
+<p>When something goes wrong and you go back to fix it, is that work being tracked and billed appropriately? Most Oklahoma trades operators absorb callbacks into overhead without tracking them. One contractor doing this for a year can absorb $3,000–$8,000 in untracked warranty and callback costs.</p>
+<p>For the next 90 days, track every callback: customer name, original job date, reason, hours spent, materials used, whether it's billable to customer/manufacturer or warranty. At 90 days, calculate the impact. You'll probably find 20–35% of callbacks should be generating revenue but aren't.</p>
+
+<h3>Audit Point 3: Vendor Pricing Versus Market ($200–$600/month recovery)</h3>
+<p>Oklahoma materials suppliers are excellent — but they're businesses too. If your primary suppliers haven't been competitive bid in 18+ months, prices have probably drifted. A single competitive quote usually produces 4–8% reductions.</p>
+<p>Pick your three highest-spend supplier categories. Get a competitive quote from an alternative vendor. Share that quote with your current supplier. Watch what happens — they usually match or beat. On $50K–$100K in annual supplier spend, 5% is $2,500–$5,000.</p>
+
+<h3>Audit Point 4: Technician and Team Utilization ($400–$900/month recovery)</h3>
+<p>Oklahoma trades with seasonal demand often run 55–70% utilization when 72–80% is achievable. That gap represents billable work that should be happening but isn't — due to scheduling, routing, or lack of work. If it's work availability, that's a sales problem. If it's scheduling, it's an operations problem.</p>
+<p>Calculate current utilization: billable hours completed ÷ available hours. If you're below 70%, audit scheduling. Are jobs being routed efficiently? Are crews being dispatched to minimize travel time? Are slow periods being filled with maintenance and smaller work?</p>
+<p>A 5-point utilization improvement (65% to 70%) on a three-person crew at $55/hour billable is $4,290 in annual recovered revenue. On larger crews it compounds.</p>
+
+<h3>Audit Point 5: Overhead Control and Software Bloat ($300–$700/month recovery)</h3>
+<p>Pull your bank and credit card statements for 90 days. List every recurring business expense. Count software subscriptions, insurance, vehicle costs, facility costs, everything. Most Oklahoma trades businesses carrying 8–15 software tools find 2–4 that are redundant or unused — worth $200–$400/month in cuts alone.</p>
+<p>Insurance policies often haven't been competitively reviewed in 2+ years. A broker review typically surfaces $100–$300/month in savings.</p>
+
+<h2>The Audit Roadmap</h2>
+<p><strong>Week 1–2:</strong> Pull last 20 jobs and calculate profitability by job type. Identify which categories are under-priced.</p>
+<p><strong>Week 2–3:</strong> Start tracking all callbacks and warranty work. Categorize each by billability.</p>
+<p><strong>Week 3:</strong> Get competitive quotes on top 3 suppliers. Share with current suppliers. Negotiate.</p>
+<p><strong>Week 4:</strong> Calculate current utilization. Audit scheduling and routing for efficiency.</p>
+<p><strong>Week 4–5:</strong> Audit overhead and software. Cut what's not generating value.</p>
+<p><strong>Ongoing:</strong> Monthly job profitability reporting. Monthly callback tracking. Quarterly vendor pricing review. Monthly utilization reporting.</p>
+
+<h2>What This Usually Finds</h2>
+<p>An Oklahoma trades operator executing all five audits typically recovers $1,300–$3,200/month in margin. At $1,500/month average recovery, that's $18,000 in additional annual profit without adding a single customer or raising prices across the board.</p>
+<p>For a $1M+ Oklahoma trades business, that's the difference between a good year and an excellent year. It compounds.</p>
+<p>If you're an Oklahoma contractor and want to know exactly where your margin is going, <a href="/contact">request a free operations audit from SharpMargin</a>. We'll run these five audits, track down the leaks, and give you a written report with specific dollar amounts. No guessing. Just numbers.</p>`,
+    faqs: [
+      {
+        q: "How do I calculate overhead per job accurately?",
+        a: "Total monthly overhead ÷ total billable hours in that month = overhead cost per billable hour. Multiply that by hours on the job to get that job's overhead allocation. Repeat for each job. You'll see patterns in which job types are priced below true cost."
+      },
+      {
+        q: "What percentage of callbacks should be billable?",
+        a: "Depends on your warranty policy and the type of work. Typical: 40–50% are customer or manufacturer billable, 30–40% are warranty costs you cover, 10–20% are adjustments offered as goodwill. Anything under-tracked is margin lost."
+      },
+      {
+        q: "How much utilization improvement is realistic?",
+        a: "If you're at 60%, targeting 72% is realistic over 90 days with better scheduling. If you're at 72%, you're in good shape. Above 78% means you're stretched thin. The sweet spot for sustainable growth is 72–76%."
+      },
+      {
+        q: "Should I fire suppliers over 5% price increases?",
+        a: "Not immediately. Use the competitive quote as leverage to negotiate. If they won't come down or claim they can't compete, you have a real decision. But most suppliers will match a competitive bid if it keeps your business. Use the market as your negotiating tool."
+      }
+    ]
+  },
 ];
 
