@@ -2706,7 +2706,7 @@ export const blogPosts: BlogPost[] = [
       },
       {
         q: "How do I handle customers who push back on price?",
-        a: "Push back on the pushback. "This price reflects current market rates and the quality you're getting. If you'd like to go with someone cheaper, I understand — just know that cheaper usually means shorter cuts or slower scheduling. We're priced for quality." Most customers accept this."
+        a: "Push back on the pushback. 'This price reflects current market rates and the quality you're getting. If you'd like to go with someone cheaper, I understand — just know that cheaper usually means shorter cuts or slower scheduling. We're priced for quality.' Most customers accept this."
       },
       {
         q: "Should I offer discounts to long-term customers?",
