@@ -3258,5 +3258,297 @@ export const blogPosts: BlogPost[] = [
 <p><a href="/contact">SharpMargin's free 48-hour audit</a> is built for Oklahoma businesses. We pull your numbers, run the analysis, and give you a written report with every finding and dollar amount. No pressure, no obligation. Just clarity on where your profitability is actually going and what to fix first.</p>
 <p>You've earned the right to know exactly why you're working hard and what it takes to keep more of what you make. Let's figure it out.</p>`,
   },
+  {
+    slug: "idaho-contractors-pricing-power-growth",
+    title: "Why Idaho Contractors Underprice Their Work (And How to Fix It)",
+    description: "Boise and Meridian contractors have never been busier, but undercutting each other on price is eating into margins. Here's how to charge what you're worth.",
+    date: "May 13, 2026",
+    readTime: "8 min read",
+    tag: "Profit Margin",
+    state: "idaho",
+    faqs: [
+      {
+        q: "Why do Idaho contractors undercharge for their work?",
+        a: "In boom markets like Boise, there's a perception that more work is available than there actually is. Contractors cut price to 'stay competitive' when the reality is the market will absorb higher pricing. Fear of losing work often leads to pricing that doesn't cover the job's true cost.",
+      },
+      {
+        q: "How do I know if I'm underpricing my contracting work?",
+        a: "Calculate your true all-in cost per job: labor, materials, overhead allocation, and equipment. If your quoted price is only 15–20% above that, you're leaving margin on the table. Healthy contracting businesses aim for 25–35% gross margins on standard work.",
+      },
+      {
+        q: "What happens when you raise prices in a busy market?",
+        a: "In a busy market like Idaho, most contractors who raise prices 10–15% lose fewer jobs than they expect. The market shifts toward you. Customers care more about reliability and quality than price when the market is hot.",
+      },
+      {
+        q: "How do I communicate price increases to existing customers?",
+        a: "Be direct and honest. Tell them material costs have risen 8%, labor costs have shifted, or your schedule has tightened. Most customers in a hot market expect price adjustments. The ones who push back hardest are usually the ones unprofitable anyway.",
+      },
+    ],
+    content: `<p>Boise's construction market is moving fast. Every contractor in Meridian and Nampa has work booked out weeks. Yet most of them are still pricing jobs like the market is tight. They quote low. They win the bid. They grind through the job wondering why they're exhausted and broke.</p>
+<p>The irony: in a hot market, pricing power shifts to the supplier, not the buyer. When demand is high and time is scarce, customers will pay more. Idaho contractors aren't taking advantage of that. This is how to fix it.</p>
+
+<h2>The Pricing Problem Idaho Contractors Won't Talk About</h2>
+<p>Most Idaho contractors set their prices by looking at competitors. They see what someone else charged last year and quote 10% lower to "win the job." This approach made sense in a slow market. In a fast one, it just destroys margin.</p>
+<p>Here's what's actually happening: contractor A quotes $8,000 for a roofing job. Contractor B quotes $7,500 to undercut. Contractor C quotes $7,000 to undercut further. Everyone's margin compresses to 10–12%. The market is full three weeks out, but nobody's making money. They're just busy.</p>
+<p>The fix starts with understanding what a job actually costs you to complete. Not the quoted price. The real cost: labor, materials, overhead allocation, equipment, insurance. Once you know that, you can price strategically instead of emotionally.</p>
+
+<h2>Why Idaho Contractors Underprice (And It's Not What You Think)</h2>
+<p>Fear. Not of losing customers, but of making a decision and being wrong. It's easier to match the lowest bid you've seen than to think through what your work is worth. If you quote low and lose anyway, you can blame the market. If you quote high and lose, you feel responsible.</p>
+<p>That psychology is expensive. It also ignores what's actually happening in the market. When a contractor can't fit more work in, and the phone is ringing, undercutting on price is not strategy. It's self-sabotage.</p>
+
+<h2>What to Look For Before Raising Prices</h2>
+<p>Before you move pricing up, check these metrics to make sure you're ready:</p>
+<ul>
+<li>Your calendar is booked 3+ weeks out consistently</li>
+<li>You're turning down work or pushing out start dates</li>
+<li>Your labor costs are tracking with inflation or your region's wage growth</li>
+<li>Your material suppliers have raised prices in the last 6–12 months</li>
+<li>You know your true cost per job type (not just what you quote)</li>
+</ul>
+<p>If three of these are true, the market is signaling that price increases will stick.</p>
+
+<h2>How to Raise Prices and Keep the Work</h2>
+<p>Don't apologize or hedge. When you quote a job that's 12–18% higher than your old pricing, state the reason clearly. "Material costs are up 8% from where they were a year ago. Labor rates have moved up. The schedule has tightened. This is the new range."</p>
+<p>Customers in a hot market expect this. The ones who don't accept it are usually the ones who were never profitable anyway, the low-ball hunters who'd leave you for a cheaper bid next month regardless.</p>
+<p>You might lose one in ten bids after raising prices. But the nine you keep will be more profitable. And your calendar stays full. That's the win.</p>
+
+<h2>The Real Opportunity</h2>
+<p>Idaho's construction market has given contractors a rare gift: enough demand that they can actually choose which jobs to take. Pricing low kills that advantage. Pricing at what your work is worth keeps it.</p>
+<p>If you're not certain what your work is actually worth, run the numbers: total labor hours on recent jobs, all materials cost, overhead allocation, equipment depreciation. Add 25–35% margin on top. That's your baseline. Everything else is negotiation or custom work.</p>
+<p><a href="/contact">SharpMargin's free 48-hour audit</a> includes a full job-costing analysis for Idaho contractors. We'll show you what your work is actually costing and what healthy margins look like for your specific trade.</p>`,
+  },
+  {
+    slug: "nevada-restaurant-staffing-cost-spiral",
+    title: "How Nevada Restaurant Labor Costs Keep Rising (And Why Your Prices Keep Stalling)",
+    description: "Las Vegas and Reno restaurant owners face wage pressure that doesn't stay hidden. Here's where labor cost is actually eating margin and what to do about it.",
+    date: "May 13, 2026",
+    readTime: "8 min read",
+    tag: "Cost Reduction",
+    state: "nevada",
+    faqs: [
+      {
+        q: "What's a healthy labor cost percentage for Nevada restaurants?",
+        a: "Labor costs typically run 28–35% of revenue for full-service restaurants, 20–25% for quick service. If yours is above 40%, there's a problem with pricing, staffing efficiency, or both. The Nevada hospitality market has wage pressure that makes this especially tight.",
+      },
+      {
+        q: "How do I keep labor costs from spiraling in a hot market?",
+        a: "Track labor cost by hour, not just total percentage. Identify your peak and slow periods. Adjust staffing seasonally. Cross-train staff so one person can cover multiple stations. Implement scheduling software that minimizes overstaffing.",
+      },
+      {
+        q: "Should I raise menu prices when labor costs go up?",
+        a: "Probably, but not immediately and not across the board. Increase prices on items with highest margins first. Test price increases on new customers before applying to existing ones. A 3–5% increase every 12 months tends to stick better than one big jump.",
+      },
+      {
+        q: "What's the difference between fixed labor and variable labor in a restaurant?",
+        a: "Fixed labor (managers, core kitchen staff) is the same every day regardless of revenue. Variable labor (servers, runners) scales with volume. Controlling your fixed labor ratio is the key to surviving slow periods without panic.",
+      },
+    ],
+    content: `<p>The Las Vegas and Reno restaurant markets have fundamentally changed in the last three years. Wage pressure is relentless. Servers expect $18–$24/hour plus tips. Kitchen staff wants $16–$20/hour. Turnover is so high that you're training someone new every month.</p>
+<p>Your prices, meanwhile, aren't keeping up. Customers balked at a $2 increase last year. A $3 increase this year feels aggressive. So your labor cost creeps from 32% to 38% to 41%, and your margin compresses to almost nothing.</p>
+
+<h2>The Labor Cost Spiral Most Nevada Restaurants Don't Track</h2>
+<p>Here's what's happening quietly: a year ago, your core staff cost $8,000 a week. Today it's $9,200. That's a 15% increase. But your revenue only grew 6%. So your labor cost jumped from 32% to 35% of revenue without a single staffing change.</p>
+<p>Add turnover training time, higher hourly wages for new staff, and the shift toward full-time employment to cut turnover, and your labor cost ratio accelerates. Meanwhile, food costs creep up 3–5% a year. Your controllable costs are compressed between wages and ingredients, with very little room to move.</p>
+<p>Most restaurant owners feel this pinch but don't track it cleanly. They notice the bank account is thinner and assume it's the market. It's not. It's the slow, unmanaged compression of labor cost against stagnant pricing.</p>
+
+<h2>Why Nevada Restaurants Struggle With Labor Cost Management</h2>
+<p>Nevada hospitality is different from markets with lower baseline wages. Everyone in the industry is competing for the same labor pool. When the Golden Nugget or Caesars bumps wages, the ripple goes through every restaurant in the state. You can't control the market, but you can control how you staff around it.</p>
+<p>The real problem is inefficiency. Many restaurants overstaff their peaks and underdeliver on service anyway. Others let scheduling fall to whoever's working that day instead of using a system. These operational gaps make labor cost feel inevitable when it's actually manageable.</p>
+
+<h2>What to Look For in Your Labor Cost</h2>
+<p>Pull your P&amp;L for the last 12 months and calculate labor cost as a percentage of revenue for each month. You should see consistency month to month unless your volume changed dramatically. If labor cost is creeping up 1–2% every quarter, something is drifting.</p>
+<ul>
+<li>Are you overstaffed during slow periods? Check shift counts and revenue per labor hour.</li>
+<li>Is turnover increasing? Calculate average tenure. High turnover multiplies training costs.</li>
+<li>Are you paying overtime? If labor cost jumps during peak weeks, overtime might be the culprit.</li>
+<li>Are your menu prices keeping pace with labor inflation? Do the math on the last three years of wage vs. price increases.</li>
+</ul>
+
+<h2>How to Reclaim Your Labor Margin</h2>
+<p>This is not about cutting staff or reducing quality. It's about managing what you already have more efficiently.</p>
+<p>First, fix your scheduling. If you're not using a scheduling system that forecasts volume and suggests staffing, you're guessing. Start there. It's usually $400–$600/month and saves more than it costs.</p>
+<p>Second, attack your fixed labor first. Can a manager cover more hours? Can you cross-train one person to float between stations instead of hiring another full-timer? Can you consolidate your core kitchen team during slow periods? These moves preserve quality while reducing the labor cost floor.</p>
+<p>Third, adjust pricing methodically. Your highest-margin items should subsidize your lowest. Raise prices on your top 30% margin items by 4–6%. Leave your loss leaders alone. Test the increase on a small subset of customers first to see what sticks.</p>
+
+<h2>The Path Forward for Las Vegas and Reno Restaurants</h2>
+<p>The hospitality market in Nevada isn't getting easier. But restaurants that get ahead of labor cost inflation now will stay profitable when the market slows. The ones that wait until they're underwater are going to struggle.</p>
+<p><a href="/contact">SharpMargin's free 48-hour audit</a> includes a deep dive into labor cost by position, by shift, and by month. We'll show you exactly where wage inflation is hitting hardest and what repricing or restructuring would recover margin without sacrificing service.</p>`,
+  },
+  {
+    slug: "montana-cash-flow-mismanagement-independent-operators",
+    title: "The Montana Small Business Problem Nobody Wants to Admit: Cash Flow Timing",
+    description: "Missoula and Bozeman business owners are profitable on paper but broke in the bank account. Here's why, and how to fix it without a loan.",
+    date: "May 13, 2026",
+    readTime: "8 min read",
+    tag: "Operations",
+    state: "montana",
+    faqs: [
+      {
+        q: "What is cash flow mismanagement and why does it kill Montana businesses?",
+        a: "Cash flow mismanagement happens when a business is profitable (on paper) but short on cash (in the bank). This occurs when receivables stretch too long, inventory doesn't turn fast enough, or payables come due before invoices are paid. Montana contractors often build for 30–45 days while paying suppliers net 15.",
+      },
+      {
+        q: "How do I know if I have a cash flow problem or a profit problem?",
+        a: "Look at your bank account and your P&amp;L. If your P&amp;L shows profit but your bank account is stressed, it's cash flow. If both are struggling, it's profit. Montana contractors typically have cash flow issues disguised as profit problems.",
+      },
+      {
+        q: "What's the fastest way to improve cash flow without borrowing money?",
+        a: "Shorten your sales cycle. Collect payments faster. Billings and collections are the two fastest levers. Moving from net 30 to net 15 or getting a deposit on larger jobs frees up thousands in working capital without a business loan.",
+      },
+      {
+        q: "Should Montana small businesses use payment terms to manage cash flow?",
+        a: "Yes. Build retainers into larger contracts. Invoice in phases as work completes, not at the end. For service work, implement deposits on jobs over a certain size. This is not aggressive — it's standard business practice.",
+      },
+    ],
+    content: `<p>In Missoula and Bozeman, there's a certain independence that's beautiful. Operators build their own businesses, solve their own problems, and rarely ask for help. It's also the reason a lot of Montana businesses run out of cash in the middle of a profitable year.</p>
+<p>The pattern is predictable: business is booked. Work is flowing. The P&amp;L shows profit. The bank account says otherwise. Cash tied up in receivables, slow inventory turns, or supplier payments that come due before customer money arrives. The business is profitable but illiquid. That's a problem that kills businesses quietly.</p>
+
+<h2>How Montana Contractors Get Stuck Without Cash</h2>
+<p>A Billings contractor books a $40,000 renovation. Materials cost $15,000. Labor (his and his team) is $18,000. Overhead allocation is $4,000. Profit should be $3,000 before tax. The work takes 6 weeks.</p>
+<p>He pays his suppliers net 15. His team is on a weekly payroll. So in week 2, he's paid out $7,000+ already, with no customer payment yet. By week 4, he's out $20,000. The customer doesn't pay until 30 days after completion. So week 10 arrives, he's been working 8 weeks, and still no payment. His bank account is negative by $12,000.</p>
+<p>This is not a profit problem. The job is going to make $3,000. It's a cash flow problem. And it's invisible until the bank account hits zero.</p>
+
+<h2>Why Montana Businesses Accept This (And It's Not Their Fault)</h2>
+<p>Montana has never had the depth of financial infrastructure that coastal markets have. There are fewer banks, fewer credit lines for small businesses, and fewer tools. So operators adapt. They bootstrap. They manage cash tightly. They're used to doing things the hard way.</p>
+<p>This independence is a strength until it becomes a liability. The contractor doesn't ask customers for deposits because "that's not how we do business here." He doesn't push for faster payment because he doesn't want to seem desperate. He carries inventory on a tight cash basis because he's never had an operating line of credit.</p>
+<p>The result is a profitable business that's constantly one slow month away from trouble.</p>
+
+<h2>What to Look For in Your Cash Flow</h2>
+<p>Pull your last three months of statements and look at these numbers:</p>
+<ul>
+<li>Days Sales Outstanding (DSO): How many days, on average, from invoice to payment? For Montana contractors, this is often 35–50 days when 25–30 is healthy.</li>
+<li>Cash Conversion Cycle: From the day you pay a supplier to the day you collect from the customer. If this number is 30+ days, you're carrying the cash gap.</li>
+<li>Inventory Turns: How many times per year does your inventory fully sell and replace? Slow turns means cash tied up in stock.</li>
+<li>Operating Cash Flow vs. Net Income: If they're more than 10% apart, something is off in timing.</li>
+</ul>
+
+<h2>How to Fix Cash Flow Without Borrowing</h2>
+<p>The fastest cash flow improvements don't require new systems. They require new thinking about how you ask for and receive money.</p>
+<p>First, implement deposits on projects over $5,000. This is standard in construction and renovation work. A 25–33% deposit when signed covers your initial materials and labor. It's not unusual. It's normal.</p>
+<p>Second, split billing on longer projects. Instead of billing at the end, invoice every two weeks as work progresses. This turns your DSO from 50 days to 25 days immediately.</p>
+<p>Third, negotiate with suppliers. Ask for net 30 instead of net 15 on your three largest vendor relationships. One conversation. The worst they say is no. Many will say yes to established customers.</p>
+<p>Fourth, push for early payment incentives. "2% off if paid within 10 days" looks generous but keeps your cash moving. At 24% annual interest, that 2% discount is breakeven.</p>
+
+<h2>The Cash Flow Reality for Montana Operators</h2>
+<p>The difference between a cash flow problem and a profit problem is the difference between a business that survives and one that doesn't. Montana's independent operators are often the most profitable in their markets. They're not always the ones with the best bank accounts.</p>
+<p><a href="/contact">SharpMargin's free 48-hour audit</a> includes a complete cash conversion cycle analysis. We'll show you exactly how many days of cash you're tying up, where the biggest gaps are, and what changes free that cash without borrowing.</p>`,
+  },
+  {
+    slug: "tennessee-markup-pricing-leaving-money",
+    title: "Tennessee Service Businesses Are Undermarking Their Labor (And Losing Thousands a Year)",
+    description: "Nashville and Knoxville service contractors price materials right but charge wholesale rates for their own work. Here's how to fix the pricing gap.",
+    date: "May 13, 2026",
+    readTime: "8 min read",
+    tag: "Profit Margin",
+    state: "tennessee",
+    faqs: [
+      {
+        q: "What's a healthy markup on labor for Tennessee service contractors?",
+        a: "Labor markup typically runs 75–150% of the technician's hourly cost depending on complexity and specialization. If you're marking up labor less than 50%, you're underpricing. If you're marking up materials 35% but labor 15%, you have a pricing problem.",
+      },
+      {
+        q: "How do I calculate what to charge customers for my labor?",
+        a: "Start with fully-loaded labor cost (hourly wage, benefits, payroll tax, workers comp). Multiply by 2.5–3.5x for most service work (2x for simple, 3.5x for complex). That's your baseline. Adjust up for specialized skills, high demand, or geographical factors.",
+      },
+      {
+        q: "Why do Tennessee contractors underprice their labor?",
+        a: "They don't realize what their labor actually costs. They think of their own time as 'free' or confuse their billable rate with their actual take-home. Once you factor in benefits, taxes, equipment, and overhead, labor costs 40–60% more than most owners think.",
+      },
+      {
+        q: "How do I raise labor rates without losing customers?",
+        a: "Raise them for new customers first. Existing customers stay on old pricing unless they're on new contracts. Communicate the increase as a market adjustment, not a price hike. 'Labor rates have moved 8–12% in the Knoxville market' is a fact, not a negotiation.",
+      },
+    ],
+    content: `<p>A Memphis HVAC technician's cost is $26/hour loaded (wages, taxes, benefits, equipment). A materials company marks up material 35–40%. But the contractor charges $55/hour for labor. That's just 2.1x cost. Most tradework in a hot market carries 2.5–3.0x markup on labor, sometimes higher.</p>
+<p>That's not greed. That's math. And it's the difference between a business that struggles with margins and one that stays profitable even when busy.</p>
+
+<h2>Why Tennessee Contractors Underprice Their Own Labor</h2>
+<p>Most contractors price by matching competitors or by what they "think is fair." Neither approach accounts for what the work actually costs. A contractor might think "I'll charge $60/hour" without calculating that $26 of that covers loaded labor cost, another $8 covers overhead allocation, another $6 covers vehicle and equipment, leaving $20 profit margin on an hour where three unexpected costs could wipe it out.</p>
+<p>The mental mistake is treating your labor as free. When you're doing the work yourself, it feels like there's no cost. There is. When you hire someone to do it, suddenly there's a payroll cost. The economic reality was there the whole time. You just weren't pricing for it.</p>
+
+<h2>The Gap Between Materials and Labor Pricing</h2>
+<p>Here's where it gets obvious. A contractor buys a compressor for $400. Adds a 35% markup. Charges $540. The customer pays it without blinking. That same contractor spends 8 hours installing it. At $55/hour, that's $440. The customer balks. Yet the same $540 value was created.</p>
+<p>This isn't a customer problem. It's a pricing architecture problem. The contractor is pricing materials like a distributor and labor like an employee.</p>
+
+<h2>What to Look For in Your Pricing Structure</h2>
+<p>Audit your last 20 jobs completed in Nashville, Knoxville, or Chattanooga. For each, calculate:</p>
+<ul>
+<li>Total loaded labor cost (hours worked × fully-loaded wage)</li>
+<li>Material cost</li>
+<li>Overhead allocation (total overhead ÷ total billable hours)</li>
+<li>Price charged to customer</li>
+<li>Gross profit margin</li>
+</ul>
+<p>Your labor markup should be at least 2.3–2.5x cost. If it's below 2.0x, you're underpricing your work.</p>
+
+<h2>How to Adjust Your Pricing</h2>
+<p>Don't apologize about raising labor rates. The market has moved. Wages are up. Demand is high. Tennessee contractors are busier than ever. That's when pricing adjusts.</p>
+<p>Start with new customers. Quote at 2.5–3.0x your fully-loaded labor cost. Existing customers on long-standing contracts can stay at the old rate until the contract renews. New service calls? New pricing.</p>
+<p>Communicate it clearly: "Labor rates in the Nashville market have increased. Our costs have moved from where they were two years ago. New job rates reflect current market conditions."</p>
+<p>When you're booked out and turning work away, price is not your constraint. Your constraint is time. When you're constrained on time, you should be constrained on price too.</p>
+
+<h2>The Real Opportunity</h2>
+<p>Tennessee contractors who adjust labor pricing to 2.7–3.0x cost while competitors stay at 2.0x don't lose most of their work. They lose the work they didn't want anyway — low-margin jobs that kept them spinning. What they gain is margin on every job that remains.</p>
+<p><a href="/contact">SharpMargin's free 48-hour audit</a> includes a full markup analysis for Tennessee contractors. We'll show you what your labor actually costs and what your current pricing really produces as margin per job.</p>`,
+  },
+  {
+    slug: "oklahoma-growth-without-margins",
+    title: "Why Oklahoma Business Owners Grow Without Profiting (And How to Fix It)",
+    description: "Tulsa and Oklahoma City businesses are adding revenue, but the profit isn't following. Here's the specific reason and how to reverse it.",
+    date: "May 13, 2026",
+    readTime: "8 min read",
+    tag: "Operations",
+    state: "oklahoma",
+    faqs: [
+      {
+        q: "Why does revenue growth sometimes destroy profit margins?",
+        a: "Growth destroys margins when costs scale faster than prices adjust. Adding staff, trucks, and overhead increases costs by 40–50%. If prices don't move, margin compresses immediately. Most owners don't notice until several quarters have passed.",
+      },
+      {
+        q: "How do I know if my business is growing profitably or just growing bigger?",
+        a: "Compare net profit margin year to year. If revenue is up 30% but net margin is down from 12% to 9%, you're growing bigger, not profitably. Track gross profit per employee or per service line. If that's declining, growth is a problem.",
+      },
+      {
+        q: "What's the right speed to grow a service business in Oklahoma?",
+        a: "Sustainable growth for service businesses is 15–25% annual revenue growth while maintaining or improving margins. Faster growth requires pricing or operational changes to protect margin. Without them, margin compresses.",
+      },
+      {
+        q: "Should I raise prices before or after I hire new people?",
+        a: "Before. Raise prices first, stabilize at the new level, then hire with confidence that the new revenue from price increases covers the new cost. Hiring first and hoping volume covers cost is how oklahoma businesses end up over-extended.",
+      },
+    ],
+    content: `<p>An Oklahoma City contractor went from $1.2M to $1.8M in revenue in two years. He should be thrilled. Instead, he's working harder and making less money. His net margin dropped from 14% to 9%. He added a second truck, a third technician, and a part-time office person. Revenue grew. Profit didn't.</p>
+<p>This is the Oklahoma growth trap. Revenue scales up. Margin scales down. The business gets bigger and the owner gets smaller. It's a trap because growth should make things better, not worse. Here's why it happens and how to escape it.</p>
+
+<h2>The Core Problem: Growth Without Discipline</h2>
+<p>When business is good, growth feels automatic. A contractor in Broken Arrow books more jobs. He hires more people. He buys more equipment. Everything costs money. But as long as the phone keeps ringing, it feels fine. Until one day it's not.</p>
+<p>The problem is that costs scale linearly but prices don't adjust. A second technician costs 40–45% more overhead (additional truck, insurance, management, equipment). But the contractor prices jobs the same way he always did. Revenue goes up 50%. Cost of goods and labor scale with it. Overhead scales too. But the price per job stays flat.</p>
+<p>Over time, the gap between what the business brings in and what it actually costs to deliver closes. Profit margin compresses. The owner is shocked because revenue is higher than it's ever been.</p>
+
+<h2>Why This Happens to Oklahoma Business Owners Specifically</h2>
+<p>Oklahoma businesses often operate lean and independently. The owner price-sets, the owner manages, the owner delivers. When things get busy, the instinct is to hire and keep moving, not to pause and reorganize. Pausing feels expensive. It also feels un-ambitious.</p>
+<p>But scaling without reorganization is how a profitable $1.2M business becomes an unprofitable $1.8M business. The owner is too busy to measure what's happening. The P&amp;L comes in quarterly and shows revenue is up. Profit is somewhere in there too, technically. By the time the owner realizes the margin is gone, he's already over-extended.</p>
+
+<h2>What to Look For When You Scale</h2>
+<p>Before you hire your third employee or buy another truck, run these numbers:</p>
+<ul>
+<li>What's your current labor cost as a percentage of revenue? Track this monthly, not annually.</li>
+<li>What's your overhead per revenue dollar? When you double your team, this usually increases 15–25%.</li>
+<li>Are you repricing jobs to account for complexity and demand? Most businesses don't.</li>
+<li>What's your gross profit per technician or per service line? Are you making more per person or less?</li>
+<li>Where is the money from the new revenue going? If you can't say specifically, that's the problem.</li>
+</ul>
+<p>If labor cost is creeping above 35% of revenue or if gross profit per technician is declining, growth is actually shrinking your business.</p>
+
+<h2>How to Grow Profitably in Oklahoma</h2>
+<p>Growth works when three things happen simultaneously: revenue increases, costs are controlled, and pricing adjusts to reflect market conditions. Most Oklahoma owners nail one and miss the other two.</p>
+<p>First, rebuild your pricing before scaling up. If you're growing 50% in volume, some of that growth should be price, not just quantity. Raise labor rates 5–10%. Adjust your service pricing 3–5%. Test it with new customers first. Most stick.</p>
+<p>Second, audit your current costs ruthlessly. Every dollar of overhead has to justify itself. Software subscriptions, vendor contracts, insurance — if something isn't measurably helping you deliver more or better, cut it. When you scale, add strategic costs, not bloat.</p>
+<p>Third, measure the real cost of adding headcount. Before you hire someone, calculate their fully-loaded cost (wages, taxes, benefits, equipment, management time). Make sure the revenue that person will generate at your current pricing covers that cost and produces actual profit. If it doesn't, raise prices before you hire.</p>
+
+<h2>The Right Way to Scale</h2>
+<p>Growth that works is slower than growth that feels good. It's 15–20% annual revenue growth with stable or improving margins, not 40–50% growth where margin compresses to nothing. Tulsa and Oklahoma City business owners can choose which path they take. Most choose the fast one and regret it later.</p>
+<p><a href="/contact">SharpMargin's free 48-hour audit</a> is built for Oklahoma businesses in growth mode. We'll show you exactly what's happening to your margin as you scale and what changes — to pricing, costs, and operations — keep growth profitable instead of destructive.</p>`,
+  },
 ]
 
